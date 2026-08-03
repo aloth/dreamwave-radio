@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dreamwave Radio — Sleep Sounds, White Noise &amp; Ambient Mixer for iPhone</title>
+<meta name="description" content="Blend up to three ambient sounds into your own mix and drift off on a fading sleep timer. 15 stations, six synthesized live on device so they never loop. No account, no tracking, nothing leaves your device.">
+<meta property="og:title" content="Dreamwave Radio — Mix your own night">
+<meta property="og:description" content="Layer rain over a fireplace. Put a fan under a night train. A sleep sound mixer for iPhone and iPad with a fading timer, night mode, and zero data collection.">
+<meta property="og:image" content="https://raw.githubusercontent.com/aloth/dreamwave-radio/main/assets/images/dreamwave-radio-icon.png">
+<meta property="og:url" content="https://aloth.github.io/dreamwave-radio/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@xlth">
+<link rel="canonical" href="https://aloth.github.io/dreamwave-radio/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --ember:#ff9540;--ember-deep:#d6691c;--cream:#ffdea8;
+  --night:#0a0810;--night-2:#1a1430;--plum:#2a1f4a;
+  --text:#f4f1f8;--muted:rgba(244,241,248,0.6);
+}
+html{scroll-behavior:smooth}
+body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--night);color:var(--text);overflow-x:hidden;-webkit-font-smoothing:antialiased;line-height:1.6}
+a{color:inherit}
+
+/* Hero */
+.hero{background:linear-gradient(165deg,#1a1430 0%,#0d0a1a 55%,#05040a 100%);min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:80px 24px 60px;position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;top:-10%;left:50%;transform:translateX(-50%);width:120vw;height:70vh;background:radial-gradient(ellipse at 50% 50%,rgba(255,149,64,0.13) 0%,transparent 62%);pointer-events:none}
+.hero>*{position:relative;z-index:1}
+.hero-badge{display:inline-flex;align-items:center;gap:7px;background:rgba(255,255,255,0.06);backdrop-filter:blur(10px);border-radius:20px;padding:7px 17px;font-size:13px;font-weight:600;color:var(--muted);margin-bottom:28px;border:1px solid rgba(255,255,255,0.1)}
+.hero h1{font-size:clamp(2.1rem,6.5vw,3.8rem);font-weight:800;line-height:1.08;margin-bottom:20px;letter-spacing:-0.03em}
+.hero h1 span{background:linear-gradient(135deg,var(--cream),var(--ember));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.hero p{font-size:clamp(1rem,2.5vw,1.22rem);color:var(--muted);max-width:580px;line-height:1.65;margin:0 auto 18px}
+.hero-tagline{font-size:0.95rem!important;color:rgba(255,222,168,0.85)!important;font-weight:600!important;margin-bottom:36px!important}
+.app-icon{width:150px;height:150px;border-radius:33px;box-shadow:0 24px 70px rgba(0,0,0,0.6),0 0 0 1px rgba(255,255,255,0.07);margin-bottom:34px}
+.status-pill{display:inline-block;background:rgba(255,149,64,0.13);border:1px solid rgba(255,149,64,0.32);color:var(--cream);border-radius:24px;padding:11px 24px;font-size:0.93rem;font-weight:600}
+
+/* Sections */
+section{padding:88px 24px}
+h2{text-align:center;font-size:clamp(1.5rem,4vw,2.3rem);font-weight:800;margin-bottom:14px;letter-spacing:-0.02em}
+.subtitle{text-align:center;color:var(--muted);font-size:1.05rem;margin:0 auto 54px;max-width:520px}
+
+/* Mix demo */
+.mix{background:linear-gradient(180deg,#05040a,#0f0b1c)}
+.mix-container{max-width:520px;margin:0 auto}
+.mix-row{display:flex;align-items:center;gap:16px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:15px;padding:17px 20px;margin-bottom:13px}
+.mix-emoji{font-size:26px;flex-shrink:0}
+.mix-name{font-weight:600;font-size:0.98rem;flex-shrink:0;width:130px;text-align:left}
+.mix-bar{flex:1;height:6px;background:rgba(255,255,255,0.1);border-radius:3px;overflow:hidden}
+.mix-fill{height:100%;background:linear-gradient(90deg,var(--ember-deep),var(--ember));border-radius:3px}
+.mix-caption{text-align:center;color:var(--muted);font-size:0.93rem;margin-top:26px;font-style:italic}
+
+/* Features */
+.features{background:#0a0812}
+.feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(272px,1fr));gap:22px;max-width:960px;margin:0 auto}
+.feature-card{background:rgba(255,255,255,0.035);border:1px solid rgba(255,255,255,0.075);border-radius:17px;padding:32px 26px;text-align:center;transition:transform .2s,border-color .2s}
+.feature-card:hover{transform:translateY(-4px);border-color:rgba(255,149,64,0.3)}
+.feature-icon{font-size:38px;margin-bottom:15px}
+.feature-card h3{font-size:1.08rem;font-weight:700;margin-bottom:9px}
+.feature-card p{color:var(--muted);font-size:0.94rem;line-height:1.58}
+
+/* Library */
+.library{background:linear-gradient(180deg,#0f0b1c,#05040a)}
+.cat{max-width:760px;margin:0 auto 26px}
+.cat-label{font-size:0.76rem;font-weight:700;letter-spacing:1.3px;text-transform:uppercase;color:var(--ember);margin-bottom:12px;text-align:center}
+.chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
+.chip{background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:22px;padding:9px 18px;font-size:0.91rem;font-weight:500}
+.chip.gen{border-color:rgba(255,149,64,0.32);background:rgba(255,149,64,0.09)}
+.legend{text-align:center;color:var(--muted);font-size:0.88rem;margin-top:34px}
+.legend .dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:rgba(255,149,64,0.5);border:1px solid rgba(255,149,64,0.6);vertical-align:middle;margin-right:5px}
+
+/* Privacy */
+.privacy{background:#0a0812;text-align:center}
+.privacy-list{max-width:520px;margin:0 auto;text-align:left}
+.privacy-item{display:flex;gap:14px;align-items:flex-start;margin-bottom:17px;font-size:1rem;color:var(--muted)}
+.privacy-item strong{color:var(--text);font-weight:600}
+.check{color:#4ade80;font-weight:700;flex-shrink:0}
+
+/* CTA + footer */
+.cta{background:linear-gradient(165deg,#1a1430,#05040a);text-align:center}
+.cta p{color:var(--muted);margin-bottom:10px}
+.platforms{font-size:0.9rem!important;color:rgba(244,241,248,0.42)!important;margin-bottom:30px!important}
+.gh-link{display:inline-flex;align-items:center;gap:9px;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.14);border-radius:11px;padding:13px 25px;font-weight:600;text-decoration:none;font-size:0.97rem;transition:background .2s}
+.gh-link:hover{background:rgba(255,255,255,0.12)}
+.gh-link svg{width:19px;height:19px;fill:currentColor}
+footer{background:#05040a;text-align:center;padding:44px 24px;color:rgba(244,241,248,0.4);font-size:0.9rem;border-top:1px solid rgba(255,255,255,0.06)}
+footer a{color:rgba(255,222,168,0.75);text-decoration:none}
+footer a:hover{text-decoration:underline}
+footer p{margin-bottom:9px}
+.moon{font-size:1.6rem;margin-bottom:14px}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Dreamwave Radio",
+  "operatingSystem": "iOS 17.0",
+  "applicationCategory": "HealthApplication",
+  "description": "Blend up to three ambient sounds into your own mix and drift off on a fading sleep timer. 15 stations, six synthesized live on device. No account, no tracking, nothing leaves your device.",
+  "url": "https://aloth.github.io/dreamwave-radio/",
+  "author": { "@type": "Person", "name": "Alexander Loth", "url": "https://alexloth.com" }
+}
+</script>
+</head>
+<body>
+
+<section class="hero">
+  <img src="https://raw.githubusercontent.com/aloth/dreamwave-radio/main/assets/images/dreamwave-radio-icon.png" alt="Dreamwave Radio app icon" class="app-icon">
+  <div class="hero-badge">🌙 Sleep sounds for iPhone &amp; iPad</div>
+  <h1>Mix your<br><span>own night.</span></h1>
+  <p>Most sleep apps hand you a playlist. Dreamwave Radio hands you a mixing desk. Layer rain over a fireplace, put a fan under a night train, and set each level until it sounds like the room you actually want to fall asleep in.</p>
+  <p class="hero-tagline">15 stations &middot; Fading sleep timer &middot; Zero data collection</p>
+  <div class="status-pill">Coming soon to the App Store</div>
+</section>
+
+<section class="mix">
+  <h2>Three sounds, one room</h2>
+  <p class="subtitle">Pin up to three stations and set each level independently. The combination is the point.</p>
+  <div class="mix-container">
+    <div class="mix-row">
+      <span class="mix-emoji">🔥</span>
+      <span class="mix-name">Fireplace</span>
+      <div class="mix-bar"><div class="mix-fill" style="width:72%"></div></div>
+    </div>
+    <div class="mix-row">
+      <span class="mix-emoji">🌧️</span>
+      <span class="mix-name">Rain on Tent</span>
+      <div class="mix-bar"><div class="mix-fill" style="width:45%"></div></div>
+    </div>
+    <div class="mix-row">
+      <span class="mix-emoji">🚂</span>
+      <span class="mix-name">Night Train</span>
+      <div class="mix-bar"><div class="mix-fill" style="width:28%"></div></div>
+    </div>
+    <p class="mix-caption">Rain on a tent, a fire in the corner, a train somewhere far off.</p>
+  </div>
+</section>
+
+<section class="features">
+  <h2>Built for actually falling asleep</h2>
+  <p class="subtitle">Not a meditation course. Not a subscription funnel. A sound mixer and a timer.</p>
+  <div class="feature-grid">
+    <div class="feature-card">
+      <div class="feature-icon">🎚️</div>
+      <h3>Layer three at once</h3>
+      <p>Pin up to three stations and balance them independently until the mix is yours.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🔊</div>
+      <h3>Six sounds never loop</h3>
+      <p>Noise and textures are synthesized live on your device rather than played from a file, so they never develop the audible loop point that gives most noise apps away at 3am.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">⏱️</div>
+      <h3>A timer that fades</h3>
+      <p>5 to 60 minutes, plus a "15 more minutes" button. The mix fades out instead of stopping dead, so the timer never wakes you on its way out.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🌙</div>
+      <h3>Night mode</h3>
+      <p>Dims the whole interface, so checking the timer in a dark bedroom is not like taking a flashlight to the face.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🔒</div>
+      <h3>Nothing leaves</h3>
+      <p>No account, no analytics, no server. The app cannot collect data because it has nowhere to send it.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">✈️</div>
+      <h3>Works offline</h3>
+      <p>Every sound is generated or bundled on device. No streaming, no buffering, no connection needed.</p>
+    </div>
+  </div>
+</section>
+
+<section class="library">
+  <h2>Fifteen stations</h2>
+  <p class="subtitle">Five categories, from pure noise to a train passing in the dark.</p>
+  <div class="cat">
+    <div class="cat-label">Noise</div>
+    <div class="chips">
+      <span class="chip gen">White Noise</span><span class="chip gen">Pink Noise</span><span class="chip gen">Deep Hush</span>
+    </div>
+  </div>
+  <div class="cat">
+    <div class="cat-label">Soothing</div>
+    <div class="chips">
+      <span class="chip gen">Womb</span><span class="chip gen">Fan Hum</span><span class="chip gen">Car Ride</span>
+    </div>
+  </div>
+  <div class="cat">
+    <div class="cat-label">Weather</div>
+    <div class="chips">
+      <span class="chip">Rain on Tent</span><span class="chip">Rain on Window</span><span class="chip">Distant Thunder</span>
+    </div>
+  </div>
+  <div class="cat">
+    <div class="cat-label">Nature</div>
+    <div class="chips">
+      <span class="chip">Deep Ocean</span><span class="chip">Forest Night</span><span class="chip">Summer Street</span><span class="chip">Mountain Creek</span>
+    </div>
+  </div>
+  <div class="cat">
+    <div class="cat-label">Cozy</div>
+    <div class="chips">
+      <span class="chip">Fireplace</span><span class="chip">Night Train</span>
+    </div>
+  </div>
+  <p class="legend"><span class="dot"></span> Synthesized live on device — no recording, no loop point</p>
+</section>
+
+<section class="privacy">
+  <h2>🔒 There is nothing to collect</h2>
+  <p class="subtitle">Privacy here is not a policy decision. It is an architectural one.</p>
+  <div class="privacy-list">
+    <div class="privacy-item"><span class="check">✓</span><span><strong>No account.</strong> Nothing to sign up for, nothing to sign in to.</span></div>
+    <div class="privacy-item"><span class="check">✓</span><span><strong>No analytics or ad SDKs.</strong> None are linked into the app.</span></div>
+    <div class="privacy-item"><span class="check">✓</span><span><strong>No server.</strong> There is no backend to send anything to.</span></div>
+    <div class="privacy-item"><span class="check">✓</span><span><strong>No microphone.</strong> The app never asks for it and never listens.</span></div>
+    <div class="privacy-item"><span class="check">✓</span><span><strong>No health or sleep data.</strong> HealthKit is never accessed.</span></div>
+    <div class="privacy-item"><span class="check">✓</span><span><strong>Your settings stay on device</strong> and are deleted with the app.</span></div>
+  </div>
+  <p style="margin-top:34px"><a href="https://github.com/aloth/dreamwave-radio/blob/main/privacy_policy.md" style="color:var(--cream)">Read the full Privacy Policy →</a></p>
+</section>
+
+<section class="cta">
+  <div class="moon">🌙</div>
+  <h2>For quieter nights</h2>
+  <p>Dreamwave Radio is coming to the App Store.</p>
+  <p class="platforms">Requires iOS 17 or later · iPhone and iPad · English and German</p>
+  <a href="https://github.com/aloth/dreamwave-radio" class="gh-link">
+    <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+    View on GitHub
+  </a>
+</section>
+
+<footer>
+  <p>Made by <a href="https://alexloth.com">Alexander Loth</a></p>
+  <p>
+    <a href="https://github.com/aloth/dreamwave-radio/blob/main/privacy_policy.md">Privacy Policy</a> ·
+    <a href="https://github.com/aloth/dreamwave-radio/blob/main/CREDITS.md">Sound Credits</a> ·
+    <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Use</a> ·
+    <a href="mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio">Support</a>
+  </p>
+  <p style="margin-top:16px;opacity:.7">© 2026 Alexander Loth</p>
+</footer>
+
+</body>
+</html>
