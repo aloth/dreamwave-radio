@@ -1,6 +1,6 @@
 🇺🇸 [English](README.md) | 🇩🇪 **Deutsch**
 
-# Dreamwave Radio — Einschlafgeräusche, weißes Rauschen & Ambient-Mixer für iPhone & iPad
+# Dreamwave Radio - Einschlafgeräusche, weißes Rauschen & Ambient-Mixer für iPhone & iPad
 
 [![Plattform](https://img.shields.io/badge/Plattform-iOS_17+-lightgrey?logo=apple)](https://www.apple.com/de/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift&logoColor=white)](https://swift.org)
@@ -9,7 +9,7 @@
 
 **Mische Umgebungsgeräusche zu deinem eigenen Klangbild und schlafe mit dem Timer ein. Kein Konto, kein Tracking, nichts verlässt dein Gerät.**
 
-Die meisten Schlaf-Apps geben dir eine feste Playlist und eine Bezahlschranke. Dreamwave Radio gibt dir ein Mischpult. Leg Regen über ein Kaminfeuer, setz einen Ventilator unter einen Nachtzug und regle jede Ebene einzeln, bis es nach dem Raum klingt, in dem du wirklich einschlafen willst.
+Die meisten Schlaf-Apps geben dir eine feste Playlist und eine monatliche Rechnung. Dreamwave Radio gibt dir ein Mischpult. Leg Regen über ein Kaminfeuer, setz einen Ventilator unter einen Nachtzug und regle jede Ebene einzeln, bis es nach dem Raum klingt, in dem du wirklich einschlafen willst.
 
 ---
 
@@ -27,7 +27,7 @@ Die übrigen neun sind aufgenommene Loops, die mit der App ausgeliefert werden.
 
 ### ⏱️ Ein Timer, der ausblendet
 
-5, 15, 30, 45 oder 60 Minuten, mit einem Knopf für „15 Minuten mehr", falls es noch nicht ganz reicht. Die Mischung blendet aus, statt abrupt zu stoppen — so weckt dich der Timer nicht beim Verschwinden.
+5, 15, 30, 45 oder 60 Minuten, mit einem Knopf für „15 Minuten mehr", falls es noch nicht ganz reicht. Die Mischung blendet aus, statt abrupt zu stoppen - so weckt dich der Timer nicht beim Verschwinden.
 
 ### 🌙 Nachtmodus
 
@@ -56,11 +56,11 @@ Auf dem iPad öffnet sich die Klangbibliothek bildschirmfüllend:
 
 15 Sender in fünf Kategorien.
 
-**Rauschen** — Weißes Rauschen · Rosa Rauschen · Tiefe Stille
-**Beruhigend** — Mutterleib · Ventilator · Autofahrt
-**Wetter** — Regen aufs Zelt · Regen am Fenster · Fernes Gewitter
-**Natur** — Tiefes Meer · Waldnacht · Sommerstraße · Bergbach
-**Gemütlich** — Kaminfeuer · Nachtzug
+**Rauschen** - Weißes Rauschen · Rosa Rauschen · Tiefe Stille
+**Beruhigend** - Mutterleib · Ventilator · Autofahrt
+**Wetter** - Regen aufs Zelt · Regen am Fenster · Fernes Gewitter
+**Natur** - Tiefes Meer · Waldnacht · Sommerstraße · Bergbach
+**Gemütlich** - Kaminfeuer · Nachtzug
 
 
 ---
@@ -80,15 +80,12 @@ Englisch und Deutsch.
 
 ## 💬 Rückmeldungen
 
-Dieses Repository ist die Anlaufstelle für Support. Es enthält keinen Quellcode — es gibt es für Fehlermeldungen, Dokumentation und die Datenschutzerklärung.
+Dieses Repository ist die Anlaufstelle für Support. Es enthält keinen Quellcode - es gibt es für Fehlermeldungen, Dokumentation und die Datenschutzerklärung.
 
-[![Fehler melden](https://img.shields.io/badge/🐛_Fehler_melden-d6691c?style=for-the-badge)](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md)
-[![Funktion vorschlagen](https://img.shields.io/badge/💡_Funktion_vorschlagen-ff9540?style=for-the-badge)](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md)
-
-- 🐛 [Fehler melden](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md) — Abstürze, Klänge die nicht abspielen, alles was nicht wie dokumentiert funktioniert
-- 💡 [Funktion vorschlagen](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md) — ein Klang der dir fehlt, eine Einstellung die du vermisst
-- 🔎 [Bestehende Meldungen ansehen](https://github.com/aloth/dreamwave-radio/issues) — vielleicht hat es jemand schon gemeldet
-- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio) — für alles, was du lieber nicht öffentlich schreiben möchtest
+- 🐛 [Fehler melden](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md) - Abstürze, Klänge die nicht abspielen, alles was nicht wie dokumentiert funktioniert
+- 💡 [Funktion vorschlagen](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md) - ein Klang der dir fehlt, eine Einstellung die du vermisst
+- 🔎 [Bestehende Meldungen ansehen](https://github.com/aloth/dreamwave-radio/issues) - vielleicht hat es jemand schon gemeldet
+- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio) - für alles, was du lieber nicht öffentlich schreiben möchtest
 
 ---
 
@@ -99,14 +96,6 @@ Dieses Repository ist die Anlaufstelle für Support. Es enthält keinen Quellcod
 
 ---
 
-## 👤 Über den Entwickler
+Entwickelt von [Alexander Loth](https://github.com/aloth) · [alexloth.com](https://alexloth.com) · [X](https://x.com/xlth)
 
-Entwickelt von [Alexander Loth](https://github.com/aloth). Autor, Entwickler und KI-Forscher.
-
-Auf [X](https://x.com/xlth) folgen.
-
----
-
-*Für ruhigere Nächte.*
-
-© 2026 Alexander Loth
+*Für ruhigere Nächte.* © 2026 Alexander Loth

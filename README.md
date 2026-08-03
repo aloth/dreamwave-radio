@@ -1,6 +1,6 @@
 🇺🇸 **English** | 🇩🇪 [Deutsch](README_de.md)
 
-# Dreamwave Radio — Sleep Sounds, White Noise & Ambient Mixer for iPhone & iPad
+# Dreamwave Radio - Sleep Sounds, White Noise & Ambient Mixer for iPhone & iPad
 
 [![Platform](https://img.shields.io/badge/Platform-iOS_17+-lightgrey?logo=apple)](https://www.apple.com/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift&logoColor=white)](https://swift.org)
@@ -9,7 +9,7 @@
 
 **Blend ambient sounds into your own mix and drift off on a timer. No account, no tracking, nothing leaves your device.**
 
-Most sleep apps hand you a fixed playlist and a paywall. Dreamwave Radio hands you a mixing desk. Layer rain over a fireplace, put a fan under a night train, and set the level of each one independently until it sounds like the room you actually want to fall asleep in.
+Most sleep apps hand you a fixed playlist and a monthly bill. Dreamwave Radio hands you a mixing desk. Layer rain over a fireplace, put a fan under a night train, and set the level of each one independently until it sounds like the room you actually want to fall asleep in.
 
 ---
 
@@ -17,7 +17,7 @@ Most sleep apps hand you a fixed playlist and a paywall. Dreamwave Radio hands y
 
 ### 🎚️ Mix up to three sounds at once
 
-Not a playlist — a mix. Pin up to three stations and set each level independently. Rain on a tent over distant thunder. A fan under a car ride. The combination is the point.
+Not a playlist - a mix. Pin up to three stations and set each level independently. Rain on a tent over distant thunder. A fan under a car ride. The combination is the point.
 
 ### 🔊 Six sounds are synthesized, not played back
 
@@ -56,11 +56,11 @@ On iPad, the sound library opens full screen:
 
 15 stations across five categories.
 
-**Noise** — White Noise · Pink Noise · Deep Hush
-**Soothing** — Womb · Fan Hum · Car Ride
-**Weather** — Rain on Tent · Rain on Window · Distant Thunder
-**Nature** — Deep Ocean · Forest Night · Summer Street · Mountain Creek
-**Cozy** — Fireplace · Night Train
+**Noise** - White Noise · Pink Noise · Deep Hush
+**Soothing** - Womb · Fan Hum · Car Ride
+**Weather** - Rain on Tent · Rain on Window · Distant Thunder
+**Nature** - Deep Ocean · Forest Night · Summer Street · Mountain Creek
+**Cozy** - Fireplace · Night Train
 
 
 ---
@@ -80,15 +80,12 @@ English and German.
 
 ## 💬 Feedback
 
-This repository is where support happens. It contains no source code — it exists for issues, documentation, and the privacy policy.
+This repository is where support happens. It contains no source code - it exists for issues, documentation, and the privacy policy.
 
-[![Report a bug](https://img.shields.io/badge/🐛_Report_a_bug-d6691c?style=for-the-badge)](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md)
-[![Request a feature](https://img.shields.io/badge/💡_Request_a_feature-ff9540?style=for-the-badge)](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md)
-
-- 🐛 [Report a bug](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md) — crashes, sounds that will not play, anything not behaving as documented
-- 💡 [Request a feature](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md) — a sound you want, a setting you miss
-- 🔎 [Browse existing issues](https://github.com/aloth/dreamwave-radio/issues) — someone may have reported it already
-- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio) — for anything you would rather not post publicly
+- 🐛 [Report a bug](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md) - crashes, sounds that will not play, anything not behaving as documented
+- 💡 [Request a feature](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md) - a sound you want, a setting you miss
+- 🔎 [Browse existing issues](https://github.com/aloth/dreamwave-radio/issues) - someone may have reported it already
+- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio) - for anything you would rather not post publicly
 
 ---
 
@@ -99,14 +96,6 @@ This repository is where support happens. It contains no source code — it exis
 
 ---
 
-## 👤 About
+Built by [Alexander Loth](https://github.com/aloth) · [alexloth.com](https://alexloth.com) · [X](https://x.com/xlth)
 
-Built by [Alexander Loth](https://github.com/aloth). Author, developer, and AI researcher.
-
-Follow on [X](https://x.com/xlth).
-
----
-
-*Made for quieter nights.*
-
-© 2026 Alexander Loth
+*Made for quieter nights.* © 2026 Alexander Loth
