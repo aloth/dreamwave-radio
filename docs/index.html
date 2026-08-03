@@ -54,7 +54,14 @@ h2{text-align:center;font-size:clamp(1.5rem,4vw,2.3rem);font-weight:800;margin-b
 .mix-caption{text-align:center;color:var(--muted);font-size:0.93rem;margin-top:26px;font-style:italic}
 
 /* Features */
-.features{background:#0a0812}
+.shots{background:#0a0812}
+.shot-rail{display:flex;gap:18px;overflow-x:auto;padding:4px 0 20px;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch}
+.shot-rail::-webkit-scrollbar{height:6px}
+.shot-rail::-webkit-scrollbar-thumb{background:rgba(255,149,64,0.35);border-radius:3px}
+.shot-rail img{width:236px;flex-shrink:0;border-radius:22px;scroll-snap-align:center;border:1px solid rgba(255,255,255,0.09);box-shadow:0 18px 50px rgba(0,0,0,0.55)}
+.shot-hint{text-align:center;color:var(--muted);font-size:0.85rem;margin-top:6px}
+@media(min-width:900px){.shot-rail{justify-content:center;flex-wrap:nowrap}.shot-hint{display:none}}
+.features{background:linear-gradient(180deg,#0a0812,#0d0a18)}
 .feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(272px,1fr));gap:22px;max-width:960px;margin:0 auto}
 .feature-card{background:rgba(255,255,255,0.035);border:1px solid rgba(255,255,255,0.075);border-radius:17px;padding:32px 26px;text-align:center;transition:transform .2s,border-color .2s}
 .feature-card:hover{transform:translateY(-4px);border-color:rgba(255,149,64,0.3)}
@@ -137,6 +144,20 @@ footer p{margin-bottom:9px}
     </div>
     <p class="mix-caption">Rain on a tent, a fire in the corner, a train somewhere far off.</p>
   </div>
+</section>
+
+<section class="shots">
+  <h2>A look at it</h2>
+  <p class="subtitle">Dark by default, because you are looking at this in a dark room.</p>
+  <div class="shot-rail">
+    <img src="img/shot-01.jpg" alt="Dreamwave Radio station carousel" loading="lazy">
+    <img src="img/shot-02.jpg" alt="Mixing three sounds with independent levels" loading="lazy">
+    <img src="img/shot-03.jpg" alt="Sleep timer with fade" loading="lazy">
+    <img src="img/shot-04.jpg" alt="Full sound library" loading="lazy">
+    <img src="img/shot-05.jpg" alt="Night mode" loading="lazy">
+    <img src="img/shot-06.jpg" alt="Reactive ambient background" loading="lazy">
+  </div>
+  <p class="shot-hint">Scroll sideways &rarr;</p>
 </section>
 
 <section class="features">
@@ -240,9 +261,14 @@ footer p{margin-bottom:9px}
 <footer>
   <p>Made by <a href="https://alexloth.com">Alexander Loth</a></p>
   <p>
+    <a href="https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md">🐛 Report a bug</a> ·
+    <a href="https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md">💡 Request a feature</a> ·
+    <a href="mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio">📧 Email support</a>
+  </p>
+  <p>
     <a href="https://github.com/aloth/dreamwave-radio/blob/main/privacy_policy.md">Privacy Policy</a> ·
     <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Use</a> ·
-    <a href="mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio">Support</a>
+    <a href="https://github.com/aloth/dreamwave-radio">GitHub</a>
   </p>
   <p style="margin-top:16px;opacity:.7">© 2026 Alexander Loth</p>
 </footer>

@@ -39,6 +39,19 @@ Es gibt keine Registrierung, keine Analyse und keinen Server. Die App erhebt kei
 
 ---
 
+## 📸 Screenshots
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="docs/img/shot-01.jpg" width="240"> | <img src="docs/img/shot-02.jpg" width="240"> | <img src="docs/img/shot-03.jpg" width="240"> |
+| <img src="docs/img/shot-04.jpg" width="240"> | <img src="docs/img/shot-05.jpg" width="240"> | <img src="docs/img/shot-06.jpg" width="240"> |
+
+Auf dem iPad öffnet sich die Klangbibliothek bildschirmfüllend:
+
+<img src="docs/img/ipad-01.jpg" width="420">
+
+---
+
 ## 🎵 Die Klangbibliothek
 
 15 Sender in fünf Kategorien.
@@ -69,9 +82,13 @@ Englisch und Deutsch.
 
 Dieses Repository ist die Anlaufstelle für Support. Es enthält keinen Quellcode — es gibt es für Fehlermeldungen, Dokumentation und die Datenschutzerklärung.
 
-- 🐛 [Fehler melden](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md)
-- 💡 [Funktion vorschlagen](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md)
-- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio)
+[![Fehler melden](https://img.shields.io/badge/🐛_Fehler_melden-d6691c?style=for-the-badge)](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md)
+[![Funktion vorschlagen](https://img.shields.io/badge/💡_Funktion_vorschlagen-ff9540?style=for-the-badge)](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md)
+
+- 🐛 [Fehler melden](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md) — Abstürze, Klänge die nicht abspielen, alles was nicht wie dokumentiert funktioniert
+- 💡 [Funktion vorschlagen](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md) — ein Klang der dir fehlt, eine Einstellung die du vermisst
+- 🔎 [Bestehende Meldungen ansehen](https://github.com/aloth/dreamwave-radio/issues) — vielleicht hat es jemand schon gemeldet
+- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio) — für alles, was du lieber nicht öffentlich schreiben möchtest
 
 ---
 

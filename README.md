@@ -39,6 +39,19 @@ There is no sign-up, no analytics, and no server. The app does not collect data 
 
 ---
 
+## 📸 Screenshots
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="docs/img/shot-01.jpg" width="240"> | <img src="docs/img/shot-02.jpg" width="240"> | <img src="docs/img/shot-03.jpg" width="240"> |
+| <img src="docs/img/shot-04.jpg" width="240"> | <img src="docs/img/shot-05.jpg" width="240"> | <img src="docs/img/shot-06.jpg" width="240"> |
+
+On iPad, the sound library opens full screen:
+
+<img src="docs/img/ipad-01.jpg" width="420">
+
+---
+
 ## 🎵 The Sound Library
 
 15 stations across five categories.
@@ -69,9 +82,13 @@ English and German.
 
 This repository is where support happens. It contains no source code — it exists for issues, documentation, and the privacy policy.
 
-- 🐛 [Report a bug](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md)
-- 💡 [Request a feature](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md)
-- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio)
+[![Report a bug](https://img.shields.io/badge/🐛_Report_a_bug-d6691c?style=for-the-badge)](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md)
+[![Request a feature](https://img.shields.io/badge/💡_Request_a_feature-ff9540?style=for-the-badge)](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md)
+
+- 🐛 [Report a bug](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md) — crashes, sounds that will not play, anything not behaving as documented
+- 💡 [Request a feature](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md) — a sound you want, a setting you miss
+- 🔎 [Browse existing issues](https://github.com/aloth/dreamwave-radio/issues) — someone may have reported it already
+- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio) — for anything you would rather not post publicly
 
 ---
 

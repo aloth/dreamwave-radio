@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🐛 Report a bug
+    url: https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md
+    about: Something is broken, crashing, or not behaving as documented.
+  - name: 💡 Request a feature
+    url: https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md
+    about: Suggest a new sound, setting, or capability.
+  - name: 📧 Email support
+    url: mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio
+    about: For anything you would rather not post publicly.
+  - name: 🔒 Privacy Policy
+    url: https://github.com/aloth/dreamwave-radio/blob/main/privacy_policy.md
+    about: What the app stores, and why there is no server.
