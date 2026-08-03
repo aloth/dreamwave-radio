@@ -49,7 +49,6 @@ There is no sign-up, no analytics, and no server. The app does not collect data 
 **Nature** — Deep Ocean · Forest Night · Summer Street · Mountain Creek
 **Cozy** — Fireplace · Night Train
 
-Sounds in **Noise** and **Soothing** are synthesized on device. The rest are recorded loops. Attribution for the recordings is in [CREDITS.md](CREDITS.md).
 
 ---
 
@@ -79,7 +78,6 @@ This repository is where support happens. It contains no source code — it exis
 ## 📄 Legal
 
 - [Privacy Policy](privacy_policy.md)
-- [Sound Credits](CREDITS.md)
 - [Terms of Use (Apple Standard EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---

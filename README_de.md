@@ -49,7 +49,6 @@ Es gibt keine Registrierung, keine Analyse und keinen Server. Die App erhebt kei
 **Natur** — Tiefes Meer · Waldnacht · Sommerstraße · Bergbach
 **Gemütlich** — Kaminfeuer · Nachtzug
 
-Die Klänge in **Rauschen** und **Beruhigend** werden auf dem Gerät synthetisiert. Der Rest sind Aufnahmen. Die Quellenangaben stehen in [CREDITS.md](CREDITS.md).
 
 ---
 
@@ -79,7 +78,6 @@ Dieses Repository ist die Anlaufstelle für Support. Es enthält keinen Quellcod
 ## 📄 Rechtliches
 
 - [Datenschutzerklärung](privacy_policy.md)
-- [Klang-Quellenangaben](CREDITS.md)
 - [Nutzungsbedingungen (Apple Standard-EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---

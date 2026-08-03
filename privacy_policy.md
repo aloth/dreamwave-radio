@@ -38,7 +38,7 @@ The App does not request or access HealthKit, sleep tracking, or any other healt
 
 The App does not require an internet connection to function and does not make network requests during normal use.
 
-The only exception is when you deliberately tap an external link in the About screen, such as the Privacy Policy, Sound Credits, Terms of Use, or the support email address. Those links open in Safari or Mail, at which point Apple's apps and the destination website apply their own terms. We receive nothing from this.
+The only exception is when you deliberately tap an external link in the About screen, such as the Privacy Policy, Terms of Use, or the support email address. Those links open in Safari or Mail, at which point Apple's apps and the destination website apply their own terms. We receive nothing from this.
 
 ## 4. Sharing of Your Information
 
