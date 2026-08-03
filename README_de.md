@@ -9,6 +9,10 @@
 
 **Mische Umgebungsgeräusche zu deinem eigenen Klangbild und schlafe mit dem Timer ein. Kein Konto, kein Tracking, nichts verlässt dein Gerät.**
 
+[![Laden im App Store](https://img.shields.io/badge/Laden_im-App_Store-0d96f6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6790789119)
+
+**Einmal 4,99 $.** Kein Abo, keine Werbung, keine In-App-Käufe.
+
 Die meisten Schlaf-Apps geben dir eine feste Playlist und eine monatliche Rechnung. Dreamwave Radio gibt dir ein Mischpult. Leg Regen über ein Kaminfeuer, setz einen Ventilator unter einen Nachtzug und regle jede Ebene einzeln, bis es nach dem Raum klingt, in dem du wirklich einschlafen willst.
 
 ---

@@ -9,6 +9,10 @@
 
 **Blend ambient sounds into your own mix and drift off on a timer. No account, no tracking, nothing leaves your device.**
 
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0d96f6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6790789119)
+
+**$4.99 once.** No subscription, no ads, no in-app purchases.
+
 Most sleep apps hand you a fixed playlist and a monthly bill. Dreamwave Radio hands you a mixing desk. Layer rain over a fireplace, put a fan under a night train, and set the level of each one independently until it sounds like the room you actually want to fall asleep in.
 
 ---
