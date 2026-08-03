@@ -33,6 +33,10 @@ The remaining nine are recorded loops, bundled with the app.
 
 Dims the whole interface for a dark bedroom, so checking the timer does not mean taking a flashlight to the face.
 
+### 📱 At home on iPhone and iPad
+
+One app, built for both. On iPhone it stays reachable one-handed in the dark. On iPad the sound library opens full screen, so all fifteen stations are in front of you at once.
+
 ### 🔒 No account, no network, no data
 
 There is no sign-up, no analytics, and no server. The app does not collect data because it has nowhere to send it. See the [Privacy Policy](privacy_policy.md).
@@ -45,10 +49,6 @@ There is no sign-up, no analytics, and no server. The app does not collect data 
 |:--:|:--:|:--:|
 | <img src="docs/img/shot-01.jpg" width="240"> | <img src="docs/img/shot-02.jpg" width="240"> | <img src="docs/img/shot-03.jpg" width="240"> |
 | <img src="docs/img/shot-04.jpg" width="240"> | <img src="docs/img/shot-05.jpg" width="240"> | <img src="docs/img/shot-06.jpg" width="240"> |
-
-On iPad, the sound library opens full screen:
-
-<img src="docs/img/ipad-01.jpg" width="420">
 
 ---
 

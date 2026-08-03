@@ -33,6 +33,10 @@ Die übrigen neun sind aufgenommene Loops, die mit der App ausgeliefert werden.
 
 Dimmt die gesamte Oberfläche für ein dunkles Schlafzimmer, damit ein Blick auf den Timer nicht wie eine Taschenlampe ins Gesicht wirkt.
 
+### 📱 Zu Hause auf iPhone und iPad
+
+Eine App, für beide gebaut. Auf dem iPhone bleibt alles im Dunkeln einhändig erreichbar. Auf dem iPad öffnet sich die Klangbibliothek bildschirmfüllend, alle fünfzehn Sender auf einen Blick.
+
 ### 🔒 Kein Konto, kein Netz, keine Daten
 
 Es gibt keine Registrierung, keine Analyse und keinen Server. Die App erhebt keine Daten, weil sie nirgendwohin senden könnte. Siehe [Datenschutzerklärung](privacy_policy.md).
@@ -45,10 +49,6 @@ Es gibt keine Registrierung, keine Analyse und keinen Server. Die App erhebt kei
 |:--:|:--:|:--:|
 | <img src="docs/img/shot-01.jpg" width="240"> | <img src="docs/img/shot-02.jpg" width="240"> | <img src="docs/img/shot-03.jpg" width="240"> |
 | <img src="docs/img/shot-04.jpg" width="240"> | <img src="docs/img/shot-05.jpg" width="240"> | <img src="docs/img/shot-06.jpg" width="240"> |
-
-Auf dem iPad öffnet sich die Klangbibliothek bildschirmfüllend:
-
-<img src="docs/img/ipad-01.jpg" width="420">
 
 ---
 
