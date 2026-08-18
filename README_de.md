@@ -86,10 +86,10 @@ Englisch und Deutsch.
 
 Dieses Repository ist die Anlaufstelle für Support. Es enthält keinen Quellcode - es gibt es für Fehlermeldungen, Dokumentation und die Datenschutzerklärung.
 
-- 🐛 [Fehler melden](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md) - Abstürze, Klänge die nicht abspielen, alles was nicht wie dokumentiert funktioniert
-- 💡 [Funktion vorschlagen](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md) - ein Klang der dir fehlt, eine Einstellung die du vermisst
-- 🔎 [Bestehende Meldungen ansehen](https://github.com/aloth/dreamwave-radio/issues) - vielleicht hat es jemand schon gemeldet
-- 📧 [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio) - für alles, was du lieber nicht öffentlich schreiben möchtest
+- [Fehler melden](https://github.com/aloth/dreamwave-radio/issues/new?template=bug-report.md) - Abstürze, Klänge die nicht abspielen, alles was nicht wie dokumentiert funktioniert
+- [Funktion vorschlagen](https://github.com/aloth/dreamwave-radio/issues/new?template=feature_request.md) - ein Klang der dir fehlt, eine Einstellung die du vermisst
+- [Bestehende Meldungen ansehen](https://github.com/aloth/dreamwave-radio/issues) - vielleicht hat es jemand schon gemeldet
+- [support@alexloth.com](mailto:support@alexloth.com?subject=Dreamwave%20Radio) - für alles, was du lieber nicht öffentlich schreiben möchtest
 
 ---
 

@@ -81,7 +81,7 @@ We may update this Privacy Policy from time to time. The updated policy will be 
 If you have questions or concerns regarding this Privacy Policy, please contact:
 
 - **Alexander Loth**
-  - By email: [support+dreamwave@alexloth.com](mailto:support+dreamwave@alexloth.com?subject=Dreamwave%20Radio%20Privacy)
+  - By email: [support@alexloth.com](mailto:support@alexloth.com?subject=Dreamwave%20Radio%20Privacy)
   - Via GitHub: [https://github.com/aloth/dreamwave-radio](https://github.com/aloth/dreamwave-radio)
 
 By using Dreamwave Radio, you acknowledge that you have read and understood this Privacy Policy.

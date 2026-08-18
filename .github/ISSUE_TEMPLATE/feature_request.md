@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for Dreamwave Radio
+name: Request a feature
+about: Suggest a new sound, setting, or capability.
 title: ''
 labels: enhancement
 assignees: ''

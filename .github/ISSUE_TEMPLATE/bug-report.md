@@ -1,6 +1,6 @@
 ---
-name: Bug Report
-about: Report an issue with Dreamwave Radio
+name: Report a bug
+about: Something is broken, crashing, or not behaving as documented.
 title: ''
 labels: bug
 assignees: ''
