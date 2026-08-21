@@ -21,17 +21,17 @@ Most sleep apps hand you a fixed playlist and a monthly bill. Dreamwave Radio ha
 
 ### 🎚️ Mix up to three sounds at once
 
-Not a playlist - a mix. Pin up to three stations and set each level independently. Rain on a tent over distant thunder. A fan under a car ride. The combination is the point.
+Not a playlist - a mix. Pin up to three stations and set each level independently. Rain on a tent over distant thunder. Night wind under a fireplace. The combination is the point.
 
-### 🔊 Six sounds are synthesized, not played back
+### 🔊 Eight sounds are synthesized, not played back
 
-White Noise, Pink Noise, and Deep Hush are generated live on your device. So are Womb, Fan Hum, and Car Ride. Because they are computed rather than played from a file, they never develop the audible loop point that gives most noise apps away at 3am.
+White Noise, Pink Noise, and Deep Hush are generated live on your device. So are Womb, Fan Hum, Car Ride, Night Wind, and Distant Rain. Because they are computed rather than played from a file, they never develop the audible loop point that gives most noise apps away at 3am. Night Wind gusts on three unrelated cycles, so the weather never repeats. Distant Rain places every drop somewhere new.
 
-The remaining nine are recorded loops, bundled with the app.
+The remaining ten are recorded loops, bundled with the app, and they loop seamlessly - a long night is one continuous sound rather than a track that keeps starting over.
 
 ### ⏱️ A sleep timer that fades
 
-5, 15, 30, 45, or 60 minutes, with a "15 more minutes" button for when you are not quite there yet. The mix fades out rather than stopping dead, so the timer never wakes you up on its way out.
+Presets for the usual nights, or drag the scale to any duration from 1 to 120 minutes. The mix fades out rather than stopping dead, so the timer never wakes you up on its way out.
 
 ### 🌙 Night mode
 
@@ -58,11 +58,11 @@ There is no sign-up, no analytics, and no server. The app does not collect data 
 
 ## 🎵 The Sound Library
 
-15 stations across five categories.
+18 stations across five categories.
 
 **Noise** - White Noise · Pink Noise · Deep Hush
-**Soothing** - Womb · Fan Hum · Car Ride
-**Weather** - Rain on Tent · Rain on Window · Distant Thunder
+**Soothing** - Womb · Fan Hum · Car Ride · Slow Drift
+**Weather** - Rain on Tent · Rain on Window · Distant Thunder · Night Wind · Distant Rain
 **Nature** - Deep Ocean · Forest Night · Summer Street · Mountain Creek
 **Cozy** - Fireplace · Night Train
 

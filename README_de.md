@@ -21,17 +21,17 @@ Die meisten Schlaf-Apps geben dir eine feste Playlist und eine monatliche Rechnu
 
 ### 🎚️ Bis zu drei Klänge gleichzeitig mischen
 
-Keine Playlist, sondern eine Mischung. Fixiere bis zu drei Sender und regle jede Lautstärke einzeln. Regen aufs Zelt über fernem Gewitter. Ein Ventilator unter einer Autofahrt. Genau darum geht es.
+Keine Playlist, sondern eine Mischung. Fixiere bis zu drei Sender und regle jede Lautstärke einzeln. Regen aufs Zelt über fernem Gewitter. Nachtwind unter einem Kaminfeuer. Genau darum geht es.
 
-### 🔊 Sechs Klänge werden synthetisiert, nicht abgespielt
+### 🔊 Acht Klänge werden synthetisiert, nicht abgespielt
 
-Weißes Rauschen, Rosa Rauschen und Tiefe Stille entstehen live auf deinem Gerät. Ebenso Mutterleib, Ventilator und Autofahrt. Weil sie berechnet und nicht von einer Datei abgespielt werden, entwickeln sie nie den hörbaren Schleifenpunkt, an dem man die meisten Rausch-Apps um drei Uhr nachts erkennt.
+Weißes Rauschen, Rosa Rauschen und Tiefe Stille entstehen live auf deinem Gerät. Ebenso Mutterleib, Ventilator, Autofahrt, Nachtwind und Ferner Regen. Weil sie berechnet und nicht von einer Datei abgespielt werden, entwickeln sie nie den hörbaren Schleifenpunkt, an dem man die meisten Rausch-Apps um drei Uhr nachts erkennt. Nachtwind bläst auf drei voneinander unabhängigen Zyklen, das Wetter wiederholt sich also nie. Ferner Regen setzt jeden Tropfen woandershin.
 
-Die übrigen neun sind aufgenommene Loops, die mit der App ausgeliefert werden.
+Die übrigen zehn sind aufgenommene Loops, die mit der App ausgeliefert werden und nahtlos laufen - eine lange Nacht ist ein durchgehender Klang statt einer Aufnahme, die immer wieder von vorn beginnt.
 
 ### ⏱️ Ein Timer, der ausblendet
 
-5, 15, 30, 45 oder 60 Minuten, mit einem Knopf für „15 Minuten mehr", falls es noch nicht ganz reicht. Die Mischung blendet aus, statt abrupt zu stoppen - so weckt dich der Timer nicht beim Verschwinden.
+Voreinstellungen für die üblichen Nächte, oder zieh die Skala auf jede Dauer von 1 bis 120 Minuten. Die Mischung blendet aus, statt abrupt zu stoppen - so weckt dich der Timer nicht beim Verschwinden.
 
 ### 🌙 Nachtmodus
 
@@ -58,11 +58,11 @@ Es gibt keine Registrierung, keine Analyse und keinen Server. Die App erhebt kei
 
 ## 🎵 Die Klangbibliothek
 
-15 Sender in fünf Kategorien.
+18 Sender in fünf Kategorien.
 
 **Rauschen** - Weißes Rauschen · Rosa Rauschen · Tiefe Stille
-**Beruhigend** - Mutterleib · Ventilator · Autofahrt
-**Wetter** - Regen aufs Zelt · Regen am Fenster · Fernes Gewitter
+**Beruhigend** - Mutterleib · Ventilator · Autofahrt · Sanfte Strömung
+**Wetter** - Regen aufs Zelt · Regen am Fenster · Fernes Gewitter · Nachtwind · Ferner Regen
 **Natur** - Tiefes Meer · Waldnacht · Sommerstraße · Bergbach
 **Gemütlich** - Kaminfeuer · Nachtzug
 
