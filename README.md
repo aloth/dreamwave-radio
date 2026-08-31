@@ -1,4 +1,4 @@
-🇺🇸 **English** | 🇩🇪 [Deutsch](README_de.md)
+🇺🇸 **English** | 🇩🇪 [Deutsch](README_de.md) | 🇪🇸 [Español](README_es.md) | 🇫🇷 [Français](README_fr.md) | 🇮🇹 [Italiano](README_it.md) | 🇯🇵 [日本語](README_ja.md) | 🇳🇱 [Nederlands](README_nl.md) | 🇧🇷 [Português](README_pt-BR.md) | 🇨🇳 [中文](README_zh-Hans.md)
 
 # Dreamwave Radio - Sleep Sounds, White Noise & Ambient Mixer for iPhone & iPad
 
@@ -23,15 +23,19 @@ Most sleep apps hand you a fixed playlist and a monthly bill. Dreamwave Radio ha
 
 Not a playlist - a mix. Pin up to three stations and set each level independently. Rain on a tent over distant thunder. Night wind under a fireplace. The combination is the point.
 
-### 🔊 Eight sounds are synthesized, not played back
+### 🔊 Sounds that never repeat
 
-White Noise, Pink Noise, and Deep Hush are generated live on your device. So are Womb, Fan Hum, Car Ride, Night Wind, and Distant Rain. Because they are computed rather than played from a file, they never develop the audible loop point that gives most noise apps away at 3am. Night Wind gusts on three unrelated cycles, so the weather never repeats. Distant Rain places every drop somewhere new.
+Most sleep apps play a recording on a loop, and at 3am you hear the join. Night Wind gusts on three cycles that never line up. Distant Rain places every drop somewhere new. Cat Purr pauses when a cat would. The app builds these sounds as it plays them, so there is no join to hear.
 
-The remaining ten are recorded loops, bundled with the app, and they loop seamlessly - a long night is one continuous sound rather than a track that keeps starting over.
+The recorded ones are cut to run seamlessly, so a long night is one continuous sound rather than a track that keeps starting over.
+
+### 🗣️ Just ask
+
+"Play rain in Dreamwave Radio." "Set a sleep timer." "Give me fifteen more minutes." Siri starts a sound, adds one to the mix, or moves the timer without the app ever coming to the screen. Everything Siri can do is also a Shortcut, so a sound can start as part of your bedtime routine.
 
 ### ⏱️ A sleep timer that fades
 
-Presets for the usual nights, or drag the scale to any duration from 1 to 120 minutes. The mix fades out rather than stopping dead, so the timer never wakes you up on its way out.
+Presets for the usual nights, or drag the scale to any duration from 1 to 120 minutes. The mix fades out rather than stopping dead, so the timer never wakes you up on its way out. While it runs it sits on the Lock Screen and in the Dynamic Island, so a glance tells you how long is left.
 
 ### 🌙 Night mode
 
@@ -39,7 +43,7 @@ Dims the whole interface for a dark bedroom, so checking the timer does not mean
 
 ### 📱 At home on iPhone and iPad
 
-One app, built for both. On iPhone it stays reachable one-handed in the dark. On iPad the sound library opens full screen, so all fifteen stations are in front of you at once.
+One app, built for both. On iPhone it stays reachable one-handed in the dark. On iPad the sound library opens full screen, so the whole library is in front of you at once.
 
 ### 🔒 No account, no network, no data
 
@@ -58,14 +62,13 @@ There is no sign-up, no analytics, and no server. The app does not collect data 
 
 ## 🎵 The Sound Library
 
-18 stations across five categories.
+27 stations across five categories, and most of them are built as they play, so they never repeat.
 
-**Noise** - White Noise · Pink Noise · Deep Hush
-**Soothing** - Womb · Fan Hum · Car Ride · Slow Drift
+**Noise** - White Noise · Pink Noise · Deep Hush · Grey Noise · Green Noise · Blue Noise · Violet Noise
+**Soothing** - Womb · Fan Hum · Car Ride · Slow Drift · Cat Purr · Airplane Cabin · Shusher
 **Weather** - Rain on Tent · Rain on Window · Distant Thunder · Night Wind · Distant Rain
 **Nature** - Deep Ocean · Forest Night · Summer Street · Mountain Creek
-**Cozy** - Fireplace · Night Train
-
+**Cozy** - Fireplace · Night Train · Vinyl Crackle · Running Shower
 
 ---
 
@@ -78,7 +81,7 @@ There is no sign-up, no analytics, and no server. The app does not collect data 
 
 ## 🌍 Languages
 
-English and German.
+English, German, Spanish, French, Italian, Japanese, Dutch, Brazilian Portuguese, and Simplified Chinese. Sound names are translated too.
 
 ---
 

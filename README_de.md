@@ -1,4 +1,4 @@
-🇺🇸 [English](README.md) | 🇩🇪 **Deutsch**
+🇺🇸 [English](README.md) | 🇩🇪 **Deutsch** | 🇪🇸 [Español](README_es.md) | 🇫🇷 [Français](README_fr.md) | 🇮🇹 [Italiano](README_it.md) | 🇯🇵 [日本語](README_ja.md) | 🇳🇱 [Nederlands](README_nl.md) | 🇧🇷 [Português](README_pt-BR.md) | 🇨🇳 [中文](README_zh-Hans.md)
 
 # Dreamwave Radio - Einschlafgeräusche, weißes Rauschen & Ambient-Mixer für iPhone & iPad
 
@@ -21,29 +21,33 @@ Die meisten Schlaf-Apps geben dir eine feste Playlist und eine monatliche Rechnu
 
 ### 🎚️ Bis zu drei Klänge gleichzeitig mischen
 
-Keine Playlist, sondern eine Mischung. Fixiere bis zu drei Sender und regle jede Lautstärke einzeln. Regen aufs Zelt über fernem Gewitter. Nachtwind unter einem Kaminfeuer. Genau darum geht es.
+Keine Playlist - eine Mischung. Hefte bis zu drei Sender an und regle jede Ebene einzeln. Regen aufs Zelt über fernem Gewitter. Nachtwind unter einem Kaminfeuer. Die Kombination ist der Punkt.
 
-### 🔊 Acht Klänge werden synthetisiert, nicht abgespielt
+### 🔊 Klänge, die sich nie wiederholen
 
-Weißes Rauschen, Rosa Rauschen und Tiefe Stille entstehen live auf deinem Gerät. Ebenso Mutterleib, Ventilator, Autofahrt, Nachtwind und Ferner Regen. Weil sie berechnet und nicht von einer Datei abgespielt werden, entwickeln sie nie den hörbaren Schleifenpunkt, an dem man die meisten Rausch-Apps um drei Uhr nachts erkennt. Nachtwind bläst auf drei voneinander unabhängigen Zyklen, das Wetter wiederholt sich also nie. Ferner Regen setzt jeden Tropfen woandershin.
+Die meisten Schlaf-Apps spielen eine Aufnahme in Schleife, und um drei Uhr nachts hörst du die Nahtstelle. Nachtwind bläst auf drei Zyklen, die nie zusammenfallen. Ferner Regen setzt jeden Tropfen woandershin. Das Schnurren macht Pausen, wie eine Katze sie macht. Die App baut diese Klänge, während sie sie spielt, deshalb gibt es keine Naht zu hören.
 
-Die übrigen zehn sind aufgenommene Loops, die mit der App ausgeliefert werden und nahtlos laufen - eine lange Nacht ist ein durchgehender Klang statt einer Aufnahme, die immer wieder von vorn beginnt.
+Die aufgenommenen sind so geschnitten, dass sie nahtlos weiterlaufen - eine lange Nacht ist ein durchgehender Klang statt einer Aufnahme, die immer wieder von vorn beginnt.
+
+### 🗣️ Einfach fragen
+
+„Spiele Regen in Dreamwave Radio." „Stelle einen Einschlaf-Timer." „Gib mir fünfzehn Minuten mehr." Siri startet einen Klang, fügt einen zur Mischung hinzu oder verschiebt den Timer, ohne dass die App überhaupt auf den Bildschirm kommt. Alles, was Siri kann, gibt es auch als Kurzbefehl, sodass ein Klang Teil deiner Abendroutine werden kann.
 
 ### ⏱️ Ein Timer, der ausblendet
 
-Voreinstellungen für die üblichen Nächte, oder zieh die Skala auf jede Dauer von 1 bis 120 Minuten. Die Mischung blendet aus, statt abrupt zu stoppen - so weckt dich der Timer nicht beim Verschwinden.
+Voreinstellungen für die üblichen Nächte, oder zieh die Skala auf jede Dauer von 1 bis 120 Minuten. Die Mischung blendet aus, statt abrupt zu stoppen, damit der Timer dich beim Gehen nicht weckt. Während er läuft, steht er auf dem Sperrbildschirm und in der Dynamic Island - ein Blick genügt für die verbleibende Zeit.
 
 ### 🌙 Nachtmodus
 
-Dimmt die gesamte Oberfläche für ein dunkles Schlafzimmer, damit ein Blick auf den Timer nicht wie eine Taschenlampe ins Gesicht wirkt.
+Dimmt die gesamte Oberfläche für ein dunkles Schlafzimmer, sodass ein Blick auf den Timer nicht heißt, sich eine Taschenlampe ins Gesicht zu halten.
 
 ### 📱 Zu Hause auf iPhone und iPad
 
-Eine App, für beide gebaut. Auf dem iPhone bleibt alles im Dunkeln einhändig erreichbar. Auf dem iPad öffnet sich die Klangbibliothek bildschirmfüllend, alle fünfzehn Sender auf einen Blick.
+Eine App, für beide gebaut. Auf dem iPhone bleibt alles im Dunkeln einhändig erreichbar. Auf dem iPad öffnet sich die Klangbibliothek bildschirmfüllend, die ganze Bibliothek auf einen Blick.
 
 ### 🔒 Kein Konto, kein Netz, keine Daten
 
-Es gibt keine Registrierung, keine Analyse und keinen Server. Die App erhebt keine Daten, weil sie nirgendwohin senden könnte. Siehe [Datenschutzerklärung](privacy_policy.md).
+Keine Anmeldung, keine Analyse, kein Server. Die App erhebt keine Daten, weil sie nirgendwohin damit könnte. Siehe die [Datenschutzerklärung](privacy_policy.md).
 
 ---
 
@@ -58,14 +62,13 @@ Es gibt keine Registrierung, keine Analyse und keinen Server. Die App erhebt kei
 
 ## 🎵 Die Klangbibliothek
 
-18 Sender in fünf Kategorien.
+27 Sender in fünf Kategorien, und die meisten entstehen beim Abspielen, wiederholen sich also nie.
 
-**Rauschen** - Weißes Rauschen · Rosa Rauschen · Tiefe Stille
-**Beruhigend** - Mutterleib · Ventilator · Autofahrt · Sanfte Strömung
+**Rauschen** - Weißes Rauschen · Rosa Rauschen · Tiefe Stille · Graues Rauschen · Grünes Rauschen · Blaues Rauschen · Violettes Rauschen
+**Beruhigend** - Mutterleib · Ventilator · Autofahrt · Sanfte Strömung · Schnurren · Flugzeugkabine · Pssst
 **Wetter** - Regen aufs Zelt · Regen am Fenster · Fernes Gewitter · Nachtwind · Ferner Regen
 **Natur** - Tiefes Meer · Waldnacht · Sommerstraße · Bergbach
-**Gemütlich** - Kaminfeuer · Nachtzug
-
+**Gemütlich** - Kaminfeuer · Nachtzug · Vinylknistern · Dusche
 
 ---
 
@@ -78,7 +81,7 @@ Es gibt keine Registrierung, keine Analyse und keinen Server. Die App erhebt kei
 
 ## 🌍 Sprachen
 
-Englisch und Deutsch.
+Englisch, Deutsch, Spanisch, Französisch, Italienisch, Japanisch, Niederländisch, brasilianisches Portugiesisch und vereinfachtes Chinesisch. Auch die Klangnamen sind übersetzt.
 
 ---
 
