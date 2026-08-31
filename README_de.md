@@ -55,8 +55,8 @@ Keine Anmeldung, keine Analyse, kein Server. Die App erhebt keine Daten, weil si
 
 | | | |
 |:--:|:--:|:--:|
-| <img src="docs/img/shot-01.jpg" width="240"> | <img src="docs/img/shot-02.jpg" width="240"> | <img src="docs/img/shot-03.jpg" width="240"> |
-| <img src="docs/img/shot-04.jpg" width="240"> | <img src="docs/img/shot-05.jpg" width="240"> | <img src="docs/img/shot-06.jpg" width="240"> |
+| <img src="docs/img/shot-01.png" width="240"> | <img src="docs/img/shot-02.png" width="240"> | <img src="docs/img/shot-03.png" width="240"> |
+| <img src="docs/img/shot-04.png" width="240"> | <img src="docs/img/shot-05.png" width="240"> | <img src="docs/img/shot-06.png" width="240"> |
 
 ---
 
