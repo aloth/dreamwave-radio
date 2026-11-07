@@ -5,7 +5,6 @@
 [![対応](https://img.shields.io/badge/対応-iOS_17+-lightgrey?logo=apple)](https://www.apple.com/jp/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift&logoColor=white)](https://swift.org)
 [![プライバシー](https://img.shields.io/badge/収集データ-なし-brightgreen)](privacy_policy.md)
-[![GitHub stars](https://img.shields.io/github/stars/aloth/dreamwave-radio?style=social)](https://github.com/aloth/dreamwave-radio/stargazers)
 
 **環境音を自分好みに重ねて、タイマーで眠りに落ちる。アカウントなし、追跡なし、何も端末から出ません。**
 

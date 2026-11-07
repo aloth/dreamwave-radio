@@ -5,7 +5,6 @@
 [![Piattaforma](https://img.shields.io/badge/Piattaforma-iOS_17+-lightgrey?logo=apple)](https://www.apple.com/it/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift&logoColor=white)](https://swift.org)
 [![Privacy](https://img.shields.io/badge/Dati_raccolti-Nessuno-brightgreen)](privacy_policy.md)
-[![GitHub stars](https://img.shields.io/github/stars/aloth/dreamwave-radio?style=social)](https://github.com/aloth/dreamwave-radio/stargazers)
 
 **Mescola suoni ambientali a modo tuo e addormentati con un timer. Nessun account, nessun tracciamento, niente lascia il tuo dispositivo.**
 

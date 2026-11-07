@@ -5,7 +5,6 @@
 [![平台](https://img.shields.io/badge/平台-iOS_17+-lightgrey?logo=apple)](https://www.apple.com/cn/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift&logoColor=white)](https://swift.org)
 [![隐私](https://img.shields.io/badge/收集的数据-无-brightgreen)](privacy_policy.md)
-[![GitHub stars](https://img.shields.io/github/stars/aloth/dreamwave-radio?style=social)](https://github.com/aloth/dreamwave-radio/stargazers)
 
 **把环境声音混成你自己的一份，在定时器里入睡。没有账户，没有追踪，什么都不离开你的设备。**
 

@@ -5,7 +5,6 @@
 [![Platform](https://img.shields.io/badge/Platform-iOS_17+-lightgrey?logo=apple)](https://www.apple.com/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift&logoColor=white)](https://swift.org)
 [![Privacy](https://img.shields.io/badge/Data_collected-None-brightgreen)](privacy_policy.md)
-[![GitHub stars](https://img.shields.io/github/stars/aloth/dreamwave-radio?style=social)](https://github.com/aloth/dreamwave-radio/stargazers)
 
 **Blend ambient sounds into your own mix and drift off on a timer. No account, no tracking, nothing leaves your device.**
 

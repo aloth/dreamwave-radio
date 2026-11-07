@@ -5,7 +5,6 @@
 [![Plattform](https://img.shields.io/badge/Plattform-iOS_17+-lightgrey?logo=apple)](https://www.apple.com/de/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift&logoColor=white)](https://swift.org)
 [![Datenschutz](https://img.shields.io/badge/Erhobene_Daten-Keine-brightgreen)](privacy_policy.md)
-[![GitHub stars](https://img.shields.io/github/stars/aloth/dreamwave-radio?style=social)](https://github.com/aloth/dreamwave-radio/stargazers)
 
 **Mische Umgebungsgeräusche zu deinem eigenen Klangbild und schlafe mit dem Timer ein. Kein Konto, kein Tracking, nichts verlässt dein Gerät.**
 
