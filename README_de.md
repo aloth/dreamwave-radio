@@ -22,6 +22,14 @@ Die meisten Schlaf-Apps geben dir eine feste Playlist und eine monatliche Rechnu
 
 Keine Playlist - eine Mischung. Hefte bis zu drei Sender an und regle jede Ebene einzeln. Regen aufs Zelt über fernem Gewitter. Nachtwind unter einem Kaminfeuer. Die Kombination ist der Punkt.
 
+### 💾 Mixe mit einem Tipp
+
+Starte mit drei fertigen Mixen: Regennacht, Fokus und Sanft einschlafen. Oder sichere deinen eigenen: Hefte bis zu drei Klänge an, regle jede Ebene und tippe auf das Lesezeichen neben Play. Über den Mixe-Knopf oben holst du jeden davon mit einem Tipp zurück, samt Lautstärken.
+
+### 📚 Für Fokus und Lernen
+
+Dieselben Klänge helfen auch tagsüber. Braunes Rauschen unter Regen am Fenster überdeckt Gespräche im Großraumbüro, im Café oder in der WG, damit du dich konzentrieren, lernen oder lesen kannst.
+
 ### 🔊 Klänge, die sich nie wiederholen
 
 Die meisten Schlaf-Apps spielen eine Aufnahme in Schleife, und um drei Uhr nachts hörst du die Nahtstelle. Nachtwind bläst auf drei Zyklen, die nie zusammenfallen. Ferner Regen setzt jeden Tropfen woandershin. Das Schnurren macht Pausen, wie eine Katze sie macht. Die App baut diese Klänge, während sie sie spielt, deshalb gibt es keine Naht zu hören.
@@ -44,6 +52,10 @@ Dimmt die gesamte Oberfläche für ein dunkles Schlafzimmer, sodass ein Blick au
 
 Eine App, für beide gebaut. Auf dem iPhone bleibt alles im Dunkeln einhändig erreichbar. Auf dem iPad öffnet sich die Klangbibliothek bildschirmfüllend, die ganze Bibliothek auf einen Blick.
 
+### 🎧 Läuft unter Podcasts weiter
+
+Schalte in den Einstellungen „Mit anderer Wiedergabe mischen“ ein, dann läuft deine Mischung leise unter einem Podcast oder Hörbuch, statt ihn zu stoppen. Standardmäßig aus.
+
 ### 🔒 Kein Konto, kein Netz, keine Daten
 
 Keine Anmeldung, keine Analyse, kein Server. Die App erhebt keine Daten, weil sie nirgendwohin damit könnte. Siehe die [Datenschutzerklärung](privacy_policy.md).
@@ -61,13 +73,13 @@ Keine Anmeldung, keine Analyse, kein Server. Die App erhebt keine Daten, weil si
 
 ## 🎵 Die Klangbibliothek
 
-27 Sender in fünf Kategorien, und die meisten entstehen beim Abspielen, wiederholen sich also nie.
+31 Sender in fünf Kategorien, und die meisten entstehen beim Abspielen, wiederholen sich also nie.
 
-**Rauschen** - Weißes Rauschen · Rosa Rauschen · Tiefe Stille · Graues Rauschen · Grünes Rauschen · Blaues Rauschen · Violettes Rauschen
+**Rauschen** - Weißes Rauschen · Rosa Rauschen · Tiefe Stille (Braunes Rauschen) · Graues Rauschen · Grünes Rauschen · Blaues Rauschen · Violettes Rauschen
 **Beruhigend** - Mutterleib · Ventilator · Autofahrt · Sanfte Strömung · Schnurren · Flugzeugkabine · Pssst
-**Wetter** - Regen aufs Zelt · Regen am Fenster · Fernes Gewitter · Nachtwind · Ferner Regen
-**Natur** - Tiefes Meer · Waldnacht · Sommerstraße · Bergbach
-**Gemütlich** - Kaminfeuer · Nachtzug · Vinylknistern · Dusche
+**Wetter** - Regen aufs Zelt · Regen am Fenster · Fernes Gewitter · Nachtwind · Ferner Regen · Präriewind
+**Natur** - Tiefes Meer · Waldnacht · Sommerstraße · Bergbach · Vogelgesang · Grillen
+**Gemütlich** - Kaminfeuer · Nachtzug · Vinylknistern · Dusche · Schaukelndes Boot
 
 ---
 

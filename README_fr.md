@@ -22,6 +22,14 @@ La plupart des applis de sommeil vous donnent une liste figée et une facture me
 
 Pas une playlist - un mélange. Épinglez jusqu'à trois stations et réglez chaque niveau séparément. Pluie sur la tente au-dessus d'un orage lointain. Vent de nuit sous un feu de cheminée. La combinaison est tout l'intérêt.
 
+### 💾 Des mix à portée de doigt
+
+Commencez avec trois mix tout prêts : Nuit de pluie, Concentration et Sommeil doux. Ou gardez le vôtre : épinglez jusqu'à trois sons, réglez chaque niveau et touchez le signet à côté de Lecture. Le bouton des mix en haut les ramène d'un geste, niveaux compris.
+
+### 📚 Pour la concentration et les études
+
+Les mêmes sons servent aussi le jour. Un bruit brun sous la pluie sur une fenêtre couvre les conversations au bureau, au café ou en colocation, pour vous concentrer, étudier ou lire.
+
 ### 🔊 Des sons qui ne se répètent jamais
 
 La plupart des applis de sommeil lisent un enregistrement en boucle, et à trois heures du matin vous entendez la jointure. Vent de nuit souffle sur trois cycles qui ne coïncident jamais. Pluie lointaine place chaque goutte ailleurs. Le ronronnement s'interrompt, comme le ferait un chat. L'appli fabrique ces sons pendant qu'elle les joue, il n'y a donc aucune jointure à entendre.
@@ -44,6 +52,10 @@ Atténue toute l'interface pour une chambre sombre, consulter la minuterie ne ve
 
 Une seule appli, conçue pour les deux. Sur iPhone, elle reste accessible d'une main dans le noir. Sur iPad, la bibliothèque de sons s'ouvre en plein écran, toute la bibliothèque devant vous d'un coup.
 
+### 🎧 Joue sous vos podcasts
+
+Activez « Jouer avec d'autres sons » dans les réglages : votre mélange joue doucement sous un podcast ou un livre audio au lieu de l'arrêter. Désactivé par défaut.
+
 ### 🔒 Aucun compte, aucun réseau, aucune donnée
 
 Aucune inscription, aucune analyse, aucun serveur. L'appli ne collecte pas de données parce qu'elle n'a nulle part où les envoyer. Voir la [Politique de confidentialité](privacy_policy.md).
@@ -61,13 +73,13 @@ Aucune inscription, aucune analyse, aucun serveur. L'appli ne collecte pas de do
 
 ## 🎵 La bibliothèque de sons
 
-27 stations en cinq catégories, et la plupart sont fabriquées pendant la lecture, elles ne se répètent donc jamais.
+31 stations en cinq catégories, et la plupart sont fabriquées pendant la lecture, elles ne se répètent donc jamais.
 
-**Bruit** - Bruit blanc · Bruit rose · Silence profond · Bruit gris · Bruit vert · Bruit bleu · Bruit violet
+**Bruit** - Bruit blanc · Bruit rose · Silence profond (bruit brun) · Bruit gris · Bruit vert · Bruit bleu · Bruit violet
 **Apaisant** - Ventre maternel · Ventilateur · En voiture · Dérive lente · Ronronnement · Cabine d'avion · Chut
-**Météo** - Pluie sur la tente · Pluie sur la vitre · Orage lointain · Vent de nuit · Pluie lointaine
-**Nature** - Océan profond · Nuit en forêt · Rue d'été · Ruisseau de montagne
-**Cocooning** - Cheminée · Train de nuit · Crépitement vinyle · Douche
+**Météo** - Pluie sur la tente · Pluie sur la vitre · Orage lointain · Vent de nuit · Pluie lointaine · Vent des prairies
+**Nature** - Océan profond · Nuit en forêt · Rue d'été · Ruisseau de montagne · Chant d'oiseaux · Grillons
+**Cocooning** - Cheminée · Train de nuit · Crépitement vinyle · Douche · Bateau bercé
 
 ---
 

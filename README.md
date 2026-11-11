@@ -22,6 +22,14 @@ Most sleep apps hand you a fixed playlist and a monthly bill. Dreamwave Radio ha
 
 Not a playlist - a mix. Pin up to three stations and set each level independently. Rain on a tent over distant thunder. Night wind under a fireplace. The combination is the point.
 
+### 💾 Mixes, one tap away
+
+Start with three ready-made mixes: Rainy Night, Focus and Gentle Sleep. Or keep your own: pin up to three sounds, set each level, and tap the bookmark next to Play. The Mixes button at the top brings any of them back with one tap, levels included.
+
+### 📚 For focus and study
+
+The same sounds work by day. Brown noise under rain on a window covers chatter in an open office, a café or a shared apartment, so you can focus, study or read.
+
 ### 🔊 Sounds that never repeat
 
 Most sleep apps play a recording on a loop, and at 3am you hear the join. Night Wind gusts on three cycles that never line up. Distant Rain places every drop somewhere new. Cat Purr pauses when a cat would. The app builds these sounds as it plays them, so there is no join to hear.
@@ -44,6 +52,10 @@ Dims the whole interface for a dark bedroom, so checking the timer does not mean
 
 One app, built for both. On iPhone it stays reachable one-handed in the dark. On iPad the sound library opens full screen, so the whole library is in front of you at once.
 
+### 🎧 Plays along with podcasts
+
+Turn on "Play Along With Other Audio" in the settings, and your mix plays quietly under a podcast or an audiobook instead of stopping it. Off by default.
+
 ### 🔒 No account, no network, no data
 
 There is no sign-up, no analytics, and no server. The app does not collect data because it has nowhere to send it. See the [Privacy Policy](privacy_policy.md).
@@ -61,13 +73,13 @@ There is no sign-up, no analytics, and no server. The app does not collect data 
 
 ## 🎵 The Sound Library
 
-27 stations across five categories, and most of them are built as they play, so they never repeat.
+31 stations across five categories, and most of them are built as they play, so they never repeat.
 
-**Noise** - White Noise · Pink Noise · Deep Hush · Grey Noise · Green Noise · Blue Noise · Violet Noise
+**Noise** - White Noise · Pink Noise · Deep Hush (Brown Noise) · Grey Noise · Green Noise · Blue Noise · Violet Noise
 **Soothing** - Womb · Fan Hum · Car Ride · Slow Drift · Cat Purr · Airplane Cabin · Shusher
-**Weather** - Rain on Tent · Rain on Window · Distant Thunder · Night Wind · Distant Rain
-**Nature** - Deep Ocean · Forest Night · Summer Street · Mountain Creek
-**Cozy** - Fireplace · Night Train · Vinyl Crackle · Running Shower
+**Weather** - Rain on Tent · Rain on Window · Distant Thunder · Night Wind · Distant Rain · Prairie Wind
+**Nature** - Deep Ocean · Forest Night · Summer Street · Mountain Creek · Birdsong · Crickets
+**Cozy** - Fireplace · Night Train · Vinyl Crackle · Running Shower · Rocking Boat
 
 ---
 

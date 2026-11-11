@@ -22,6 +22,14 @@ A maioria dos apps de sono te dá uma playlist fixa e uma conta mensal. O Dreamw
 
 Não é uma playlist - é uma mistura. Fixe até três estações e ajuste cada nível separadamente. Chuva na barraca sobre um trovão distante. Vento noturno embaixo de uma lareira. A combinação é o que importa.
 
+### 💾 Mixes a um toque
+
+Comece com três mixes prontos: Noite de chuva, Foco e Sono suave. Ou salve o seu: fixe até três sons, ajuste cada nível e toque no marcador ao lado de Reproduzir. O botão de mixes no topo traz qualquer um de volta com um toque, com os níveis.
+
+### 📚 Para foco e estudo
+
+Os mesmos sons funcionam de dia. Ruído marrom sob chuva na janela abafa as conversas no escritório, no café ou em casa, para você se concentrar, estudar ou ler.
+
 ### 🔊 Sons que nunca se repetem
 
 A maioria dos apps de sono toca uma gravação em loop, e às três da manhã você ouve a emenda. Vento noturno sopra em três ciclos que nunca coincidem. Chuva distante coloca cada gota em um lugar novo. O ronronar faz pausas, como um gato faria. O app vai construindo esses sons enquanto toca, então não há emenda para ouvir.
@@ -44,6 +52,10 @@ Escurece toda a interface para um quarto no escuro, então olhar o timer não é
 
 Um app, feito para os dois. No iPhone continua ao alcance de uma mão no escuro. No iPad a biblioteca de sons abre em tela cheia, com a biblioteca inteira à sua frente de uma vez.
 
+### 🎧 Toca junto com podcasts
+
+Ative "Tocar junto com outro áudio" nos ajustes e o seu mix toca baixinho sob um podcast ou audiolivro em vez de pará-lo. Desativado por padrão.
+
 ### 🔒 Sem conta, sem rede, sem dados
 
 Sem cadastro, sem análise, sem servidor. O app não coleta dados porque não tem para onde enviar. Veja a [Política de Privacidade](privacy_policy.md).
@@ -61,13 +73,13 @@ Sem cadastro, sem análise, sem servidor. O app não coleta dados porque não te
 
 ## 🎵 A biblioteca de sons
 
-27 estações em cinco categorias, e a maioria é construída enquanto toca, então nunca se repete.
+31 estações em cinco categorias, e a maioria é construída enquanto toca, então nunca se repete.
 
-**Ruído** - Ruído branco · Ruído rosa · Silêncio profundo · Ruído cinza · Ruído verde · Ruído azul · Ruído violeta
+**Ruído** - Ruído branco · Ruído rosa · Silêncio profundo (ruído marrom) · Ruído cinza · Ruído verde · Ruído azul · Ruído violeta
 **Relaxante** - Ventre materno · Ventilador · Viagem de carro · Deriva lenta · Ronronar · Cabine de avião · Shhh
-**Clima** - Chuva na barraca · Chuva na janela · Trovão distante · Vento noturno · Chuva distante
-**Natureza** - Oceano profundo · Noite na floresta · Rua de verão · Riacho da montanha
-**Aconchegante** - Lareira · Trem noturno · Chiado de vinil · Chuveiro
+**Clima** - Chuva na barraca · Chuva na janela · Trovão distante · Vento noturno · Chuva distante · Vento da pradaria
+**Natureza** - Oceano profundo · Noite na floresta · Rua de verão · Riacho da montanha · Canto dos pássaros · Grilos
+**Aconchegante** - Lareira · Trem noturno · Chiado de vinil · Chuveiro · Barco balançando
 
 ---
 

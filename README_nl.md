@@ -22,6 +22,14 @@ De meeste slaapapps geven je een vaste afspeellijst en een maandelijkse rekening
 
 Geen afspeellijst - een mix. Zet tot drie stations vast en regel elk niveau apart. Regen op de tent boven verre donder. Nachtwind onder een haardvuur. De combinatie is waar het om gaat.
 
+### 💾 Mixen met één tik
+
+Begin met drie kant-en-klare mixen: Regennacht, Focus en Zacht inslapen. Of bewaar je eigen mix: zet tot drie geluiden vast, regel elk niveau en tik op de bladwijzer naast Afspelen. Met de mixknop bovenaan haal je ze met één tik terug, niveaus inbegrepen.
+
+### 📚 Voor focus en studeren
+
+Dezelfde geluiden werken ook overdag. Bruine ruis onder regen op het raam dekt gepraat af op kantoor, in een café of in huis, zodat je je kunt concentreren, studeren of lezen.
+
 ### 🔊 Geluiden die nooit herhalen
 
 De meeste slaapapps spelen een opname in een lus, en om drie uur 's nachts hoor je de naad. Nachtwind waait op drie cycli die nooit samenvallen. Verre regen legt elke druppel ergens anders neer. Het spinnen pauzeert, zoals een kat dat zou doen. De app bouwt deze geluiden terwijl hij ze speelt, dus er is geen naad te horen.
@@ -44,6 +52,10 @@ Dimt de hele interface voor een donkere slaapkamer, zodat de timer checken niet 
 
 Eén app, voor allebei gebouwd. Op de iPhone blijft alles in het donker met één hand bereikbaar. Op de iPad opent de geluidsbibliotheek schermvullend, met de hele bibliotheek in één keer voor je.
 
+### 🎧 Speelt mee met podcasts
+
+Zet "Samen met andere audio afspelen" aan in de instellingen, dan speelt je mix zacht onder een podcast of luisterboek in plaats van die te stoppen. Standaard uit.
+
 ### 🔒 Geen account, geen netwerk, geen data
 
 Geen aanmelding, geen analyse, geen server. De app verzamelt geen data omdat hij nergens heen kan sturen. Zie het [Privacybeleid](privacy_policy.md).
@@ -61,13 +73,13 @@ Geen aanmelding, geen analyse, geen server. De app verzamelt geen data omdat hij
 
 ## 🎵 De geluidsbibliotheek
 
-27 stations in vijf categorieën, en de meeste worden gebouwd terwijl ze spelen, dus ze herhalen nooit.
+31 stations in vijf categorieën, en de meeste worden gebouwd terwijl ze spelen, dus ze herhalen nooit.
 
-**Ruis** - Witte ruis · Roze ruis · Diepe stilte · Grijze ruis · Groene ruis · Blauwe ruis · Violette ruis
+**Ruis** - Witte ruis · Roze ruis · Diepe stilte (bruine ruis) · Grijze ruis · Groene ruis · Blauwe ruis · Violette ruis
 **Rustgevend** - Moederschoot · Ventilator · Autorit · Trage stroming · Spinnende kat · Vliegtuigcabine · Sussen
-**Weer** - Regen op de tent · Regen op het raam · Verre donder · Nachtwind · Verre regen
-**Natuur** - Diepe oceaan · Bosnacht · Zomerstraat · Bergbeek
-**Behaaglijk** - Haardvuur · Nachttrein · Vinylgeknetter · Douche
+**Weer** - Regen op de tent · Regen op het raam · Verre donder · Nachtwind · Verre regen · Prairiewind
+**Natuur** - Diepe oceaan · Bosnacht · Zomerstraat · Bergbeek · Vogelzang · Krekels
+**Behaaglijk** - Haardvuur · Nachttrein · Vinylgeknetter · Douche · Deinende boot
 
 ---
 

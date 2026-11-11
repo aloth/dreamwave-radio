@@ -22,6 +22,14 @@ La mayoría de las apps para dormir te dan una lista fija y una factura mensual.
 
 No una lista de reproducción, una mezcla. Fija hasta tres emisoras y ajusta cada nivel por separado. Lluvia en la tienda sobre un trueno lejano. Viento nocturno bajo una chimenea. La combinación es lo que importa.
 
+### 💾 Mezclas a un toque
+
+Empieza con tres mezclas listas: Noche de lluvia, Concentración y Sueño suave. O guarda la tuya: fija hasta tres sonidos, ajusta cada nivel y toca el marcador junto a Reproducir. El botón de mezclas de arriba recupera cualquiera con un toque, niveles incluidos.
+
+### 📚 Para concentrarte y estudiar
+
+Los mismos sonidos sirven de día. Ruido marrón bajo lluvia en la ventana tapa las conversaciones en la oficina, en una cafetería o en un piso compartido, para que puedas concentrarte, estudiar o leer.
+
 ### 🔊 Sonidos que nunca se repiten
 
 La mayoría de las apps para dormir reproducen una grabación en bucle, y a las tres de la mañana oyes la costura. Viento nocturno sopla en tres ciclos que nunca coinciden. Lluvia lejana coloca cada gota en un sitio nuevo. El ronroneo hace pausas, como las haría un gato. La app construye estos sonidos mientras suenan, así que no hay costura que oír.
@@ -44,6 +52,10 @@ Atenúa toda la interfaz para un dormitorio a oscuras, así mirar el temporizado
 
 Una app, hecha para ambos. En el iPhone se maneja con una mano en la oscuridad. En el iPad la biblioteca de sonidos se abre a pantalla completa, con toda la biblioteca ante ti de una vez.
 
+### 🎧 Suena junto a tus pódcast
+
+Activa «Sonar junto a otro audio» en los ajustes y tu mezcla sonará suave bajo un pódcast o un audiolibro en lugar de detenerlo. Desactivado por defecto.
+
 ### 🔒 Sin cuenta, sin red, sin datos
 
 No hay registro, ni analítica, ni servidor. La app no recoge datos porque no tiene a dónde enviarlos. Consulta la [Política de privacidad](privacy_policy.md).
@@ -61,13 +73,13 @@ No hay registro, ni analítica, ni servidor. La app no recoge datos porque no ti
 
 ## 🎵 La biblioteca de sonidos
 
-27 emisoras en cinco categorías, y casi todas se construyen mientras suenan, así que nunca se repiten.
+31 emisoras en cinco categorías, y casi todas se construyen mientras suenan, así que nunca se repiten.
 
-**Ruido** - Ruido blanco · Ruido rosa · Silencio profundo · Ruido gris · Ruido verde · Ruido azul · Ruido violeta
+**Ruido** - Ruido blanco · Ruido rosa · Silencio profundo (ruido marrón) · Ruido gris · Ruido verde · Ruido azul · Ruido violeta
 **Relajante** - Vientre materno · Ventilador · Viaje en coche · Deriva lenta · Ronroneo · Cabina de avión · Shhh
-**Clima** - Lluvia en la tienda · Lluvia en la ventana · Trueno lejano · Viento nocturno · Lluvia lejana
-**Naturaleza** - Océano profundo · Noche en el bosque · Calle de verano · Arroyo de montaña
-**Acogedor** - Chimenea · Tren nocturno · Crepitar de vinilo · Ducha
+**Clima** - Lluvia en la tienda · Lluvia en la ventana · Trueno lejano · Viento nocturno · Lluvia lejana · Viento de pradera
+**Naturaleza** - Océano profundo · Noche en el bosque · Calle de verano · Arroyo de montaña · Canto de pájaros · Grillos
+**Acogedor** - Chimenea · Tren nocturno · Crepitar de vinilo · Ducha · Barca meciéndose
 
 ---
 

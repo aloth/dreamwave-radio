@@ -22,6 +22,14 @@ La maggior parte delle app per dormire ti da una scaletta fissa e una fattura me
 
 Non una playlist - un mix. Fissa fino a tre stazioni e regola ogni livello separatamente. Pioggia sulla tenda sopra un tuono lontano. Vento notturno sotto un camino. La combinazione è il punto.
 
+### 💾 Mix a portata di tocco
+
+Parti da tre mix già pronti: Notte di pioggia, Concentrazione e Sonno dolce. Oppure salva il tuo: fissa fino a tre suoni, regola ogni livello e tocca il segnalibro accanto a Riproduci. Il pulsante dei mix in alto li richiama con un tocco, livelli compresi.
+
+### 📚 Per concentrarsi e studiare
+
+Gli stessi suoni funzionano anche di giorno. Il rumore marrone sotto la pioggia sulla finestra copre le chiacchiere in ufficio, al bar o in una casa condivisa, così puoi concentrarti, studiare o leggere.
+
 ### 🔊 Suoni che non si ripetono mai
 
 La maggior parte delle app per dormire riproduce una registrazione in loop, e alle tre di notte senti il punto di giunzione. Vento notturno soffia su tre cicli che non coincidono mai. Pioggia lontana mette ogni goccia in un punto nuovo. Le fusa si fermano, come farebbe un gatto. L'app costruisce questi suoni mentre li riproduce, quindi non c'è nessuna giunzione da sentire.
@@ -44,6 +52,10 @@ Attenua tutta l'interfaccia per una camera al buio, così controllare il timer n
 
 Un'app sola, fatta per entrambi. Su iPhone resta raggiungibile con una mano al buio. Su iPad la libreria dei suoni si apre a schermo intero, con tutta la libreria davanti a te in una volta.
 
+### 🎧 Suona insieme ai podcast
+
+Attiva «Riproduci insieme ad altro audio» nelle impostazioni e il tuo mix suonerà piano sotto un podcast o un audiolibro invece di fermarlo. Disattivato di default.
+
 ### 🔒 Nessun account, nessuna rete, nessun dato
 
 Nessuna registrazione, nessuna analisi, nessun server. L'app non raccoglie dati perché non ha dove mandarli. Vedi l'[Informativa sulla privacy](privacy_policy.md).
@@ -61,13 +73,13 @@ Nessuna registrazione, nessuna analisi, nessun server. L'app non raccoglie dati 
 
 ## 🎵 La libreria dei suoni
 
-27 stazioni in cinque categorie, e quasi tutte vengono costruite mentre suonano, quindi non si ripetono mai.
+31 stazioni in cinque categorie, e quasi tutte vengono costruite mentre suonano, quindi non si ripetono mai.
 
-**Rumore** - Rumore bianco · Rumore rosa · Quiete profonda · Rumore grigio · Rumore verde · Rumore blu · Rumore viola
+**Rumore** - Rumore bianco · Rumore rosa · Quiete profonda (rumore marrone) · Rumore grigio · Rumore verde · Rumore blu · Rumore viola
 **Rilassante** - Grembo materno · Ventilatore · In auto · Deriva lenta · Fusa · Cabina d'aereo · Shhh
-**Meteo** - Pioggia sulla tenda · Pioggia sul vetro · Tuono lontano · Vento notturno · Pioggia lontana
-**Natura** - Oceano profondo · Notte nel bosco · Strada d'estate · Ruscello di montagna
-**Accogliente** - Camino · Treno notturno · Fruscio del vinile · Doccia
+**Meteo** - Pioggia sulla tenda · Pioggia sul vetro · Tuono lontano · Vento notturno · Pioggia lontana · Vento della prateria
+**Natura** - Oceano profondo · Notte nel bosco · Strada d'estate · Ruscello di montagna · Canto degli uccelli · Grilli
+**Accogliente** - Camino · Treno notturno · Fruscio del vinile · Doccia · Barca cullata
 
 ---
 
