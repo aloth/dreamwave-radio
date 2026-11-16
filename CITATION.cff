@@ -6,13 +6,14 @@ authors:
   - family-names: Loth
     given-names: Alexander
     orcid: "https://orcid.org/0009-0003-9327-6865"
-version: "1.2.1"
-date-released: "2026-09-03"
+version: "2.0"
+date-released: "2026-11-16"
 repository-code: "https://github.com/aloth/dreamwave-radio"
 url: "https://apps.apple.com/app/id6790789119"
 abstract: >
-  An iOS sleep-sound and white-noise app that layers up to three ambient sources with
-  independent volumes, generated and mixed on device. No account, no data collection.
+  An iOS sleep-sound and white-noise app that layers up to three of 34 ambient sounds
+  with independent volumes, with five ready-made mixes and a cover for every mix.
+  Everything stays on the device. No account, no data collection.
 keywords:
   - sleep
   - white noise
