@@ -10,9 +10,19 @@
 
 [![Download in de App Store](https://img.shields.io/badge/Download_in_de-App_Store-0d96f6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6790789119)
 
-**Eenmalig $4,99.** Geen abonnement, geen advertenties, geen in-app-aankopen.
+**Eén keer kopen, voor altijd van jou.** Geen abonnement, geen advertenties, geen in-app-aankopen.
 
 De meeste slaapapps geven je een vaste afspeellijst en een maandelijkse rekening. Dreamwave Radio geeft je een mengpaneel. Leg regen over een haardvuur, zet een ventilator onder een nachttrein en regel elk niveau apart tot het klinkt als de kamer waarin je echt in slaap wilt vallen.
+
+---
+
+## 🆕 Nieuw in 2.0
+
+- **Nieuwe look:** elke mix heeft nu een eigen cover. De mix die speelt staat bovenaan het scherm, je mixen openen als een raster van covers en de cover gloeit zacht achter je geluiden.
+- **Droomlandschappen:** drie nieuwe geluiden voor de avond en om je te concentreren: Neonhorizon, Middernachtdrone en Buizengebrom. Plus twee nieuwe kant-en-klare mixen, Neonkust en Middernachtregen.
+- **Siri in je eigen taal:** Siri begrijpt je nu in je eigen taal. Zeg bijvoorbeeld “Speel Regen op de tent in Dreamwave” of “Geef me meer tijd in Dreamwave”.
+- **Een nieuw icoon,** en op je beginscherm heet de app nu gewoon Dreamwave.
+- **Je mixen blijven van jou:** je bewaarde mixen blijven zoals ze zijn, en je kunt elke mix een eigen foto als cover geven. De nieuwe mixen komen erbij zolang er plaats is.
 
 ---
 
@@ -24,25 +34,23 @@ Geen afspeellijst - een mix. Zet tot drie stations vast en regel elk niveau apar
 
 ### 💾 Mixen met één tik
 
-Begin met drie kant-en-klare mixen: Regennacht, Focus en Zacht inslapen. Of bewaar je eigen mix: zet tot drie geluiden vast, regel elk niveau en tik op de bladwijzer naast Afspelen. Met de mixknop bovenaan haal je ze met één tik terug, niveaus inbegrepen.
+Begin met vijf kant-en-klare mixen: Regennacht, Focus, Zacht inslapen, Neonkust en Middernachtregen. Of bewaar je eigen mix: zet tot drie geluiden vast, regel elk niveau en tik op de bladwijzer naast Afspelen. Elke mix heeft een eigen cover, en elke bewaarde mix kun je een eigen foto geven. Je mixen openen als een raster van covers, en met één tik haal je ze terug, niveaus inbegrepen.
 
 ### 📚 Voor focus en studeren
 
 Dezelfde geluiden werken ook overdag. Bruine ruis onder regen op het raam dekt gepraat af op kantoor, in een café of in huis, zodat je je kunt concentreren, studeren of lezen.
 
-### 🔊 Geluiden die nooit herhalen
+### 🔊 De hele nacht rustig
 
-De meeste slaapapps spelen een opname in een lus, en om drie uur 's nachts hoor je de naad. Nachtwind waait op drie cycli die nooit samenvallen. Verre regen legt elke druppel ergens anders neer. Het spinnen pauzeert, zoals een kat dat zou doen. De app bouwt deze geluiden terwijl hij ze speelt, dus er is geen naad te horen.
-
-De opgenomen geluiden zijn zo gemonteerd dat ze naadloos doorlopen, waardoor een lange nacht één doorlopend geluid is in plaats van een track die steeds opnieuw begint.
+Geen tikjes, geen hoorbare overgang. Je geluiden lopen gelijkmatig door zolang je ze nodig hebt, zodat een lange nacht één rustig, doorlopend geluid blijft in plaats van een track die steeds opnieuw begint. Nachtwind zwelt aan en neemt af in vlagen. Bij Verre regen valt elke druppel ergens anders. Spinnende kat pauzeert zoals een kat dat doet.
 
 ### 🗣️ Vraag het gewoon
 
-„Speel regen in Dreamwave Radio." „Zet een slaaptimer." „Geef me nog een kwartier." Siri start een geluid, voegt er een toe aan de mix of verschuift de timer zonder dat de app ooit in beeld komt. Alles wat Siri kan is ook een opdracht, zodat een geluid deel kan worden van je avondroutine.
+“Speel regen in Dreamwave.” “Geef me meer tijd in Dreamwave.” Siri en Opdrachten starten je geluid, zonder dat je naar een fel scherm hoeft te kijken. Siri begrijpt je nu in je eigen taal, en alles wat Siri kan is ook een opdracht, zodat een geluid deel kan worden van je avondroutine.
 
 ### ⏱️ Een timer die wegvaagt
 
-Voorinstellingen voor de gewone nachten, of sleep de schaal naar elke duur van 1 tot 120 minuten. De mix vervaagt in plaats van abrupt te stoppen, dus de timer maakt je nooit wakker bij zijn vertrek. Terwijl hij loopt staat hij op het toegangsscherm en in de Dynamic Island, één blik en je weet hoeveel er nog rest.
+Voorinstellingen voor de gewone nachten, of sleep de schaal naar elke duur van 1 tot 120 minuten. De mix vervaagt in plaats van abrupt te stoppen, dus de timer maakt je nooit wakker bij zijn vertrek. Zolang hij aan staat, staat hij op het toegangsscherm en in de Dynamic Island, één blik en je weet hoeveel er nog rest.
 
 ### 🌙 Nachtmodus
 
@@ -58,7 +66,7 @@ Zet "Samen met andere audio afspelen" aan in de instellingen, dan speelt je mix 
 
 ### 🔒 Geen account, geen netwerk, geen data
 
-Geen aanmelding, geen analyse, geen server. De app verzamelt geen data omdat hij nergens heen kan sturen. Zie het [Privacybeleid](privacy_policy.md).
+Geen aanmelding, geen analyse, geen server, en de app vraagt nooit om je microfoon. Een foto die je als cover van een mix kiest, blijft op je apparaat. De app verzamelt geen data omdat hij nergens heen kan sturen. Zie het [Privacybeleid](privacy_policy.md).
 
 ---
 
@@ -66,20 +74,49 @@ Geen aanmelding, geen analyse, geen server. De app verzamelt geen data omdat hij
 
 | | | |
 |:--:|:--:|:--:|
-| <img src="docs/img/shot-01.png" width="240"> | <img src="docs/img/shot-02.png" width="240"> | <img src="docs/img/shot-03.png" width="240"> |
-| <img src="docs/img/shot-04.png" width="240"> | <img src="docs/img/shot-05.png" width="240"> | <img src="docs/img/shot-06.png" width="240"> |
+| <img src="docs/img/shot-01.png" width="240" alt="Val in slaap zoals jij wilt. Tot drie geluiden tegelijk."> | <img src="docs/img/shot-02.png" width="240" alt="Vervaagt nadat je weg bent"> | <img src="docs/img/shot-03.png" width="240" alt="Alle geluiden inbegrepen. Eén keer betalen. Geen abonnement."> |
+| <img src="docs/img/shot-04.png" width="240" alt="Kant-en-klare mixen. Bewaar je eigen mix."> | <img src="docs/img/shot-05.png" width="240" alt="Gemaakt om te verdwijnen in het donker"> | <img src="docs/img/shot-06.png" width="240" alt="De kamer reageert op wat je speelt"> |
 
 ---
 
 ## 🎵 De geluidsbibliotheek
 
-31 stations in vijf categorieën, en de meeste worden gebouwd terwijl ze spelen, dus ze herhalen nooit.
+34 geluiden in zes categorieën, van pure ruis tot een trein die door het donker rijdt.
 
 **Ruis** - Witte ruis · Roze ruis · Diepe stilte (bruine ruis) · Grijze ruis · Groene ruis · Blauwe ruis · Violette ruis
 **Rustgevend** - Moederschoot · Ventilator · Autorit · Trage stroming · Spinnende kat · Vliegtuigcabine · Sussen
 **Weer** - Regen op de tent · Regen op het raam · Verre donder · Nachtwind · Verre regen · Prairiewind
 **Natuur** - Diepe oceaan · Bosnacht · Zomerstraat · Bergbeek · Vogelzang · Krekels
 **Behaaglijk** - Haardvuur · Nachttrein · Vinylgeknetter · Douche · Deinende boot
+**Droomlandschappen** - Neonhorizon · Middernachtdrone · Buizengebrom
+
+---
+
+## ❓ Veelgestelde vragen
+
+**Waarom heet de app Dreamwave op mijn beginscherm?**
+
+Sinds 2.0 staat onder het icoon gewoon Dreamwave. De app zelf heet nog steeds Dreamwave Radio, in de App Store en in de app, en Siri begrijpt beide namen.
+
+**Blijven mijn bewaarde mixen na de update bewaard?**
+
+Ja. Je bewaarde mixen blijven precies zoals ze zijn. De twee nieuwe kant-en-klare mixen, Neonkust en Middernachtregen, komen erbij zolang er plaats is, en je kunt elke mix een eigen foto als cover geven.
+
+**Kost 2.0 iets als ik de app al heb?**
+
+Nee. 2.0 is een gratis update voor iedereen die Dreamwave Radio al heeft. Eén keer kopen, voor altijd van jou: alle geluiden en alle toekomstige geluiden zitten erbij.
+
+**Heeft de app toegang tot mijn foto's nodig?**
+
+Nee. Als je een foto als cover van een mix kiest, geeft de fotokiezer van het systeem de app alleen die ene foto, nooit je fotobibliotheek. De foto blijft op je apparaat en wordt nooit geüpload.
+
+**Werkt de app offline?**
+
+Ja, helemaal. Elk geluid speelt rechtstreeks op je apparaat, dus het werkt in vliegtuigmodus, in de trein of in een hotel zonder wifi.
+
+**Kan de app helpen bij tinnitus?**
+
+Veel mensen gebruiken zachte ruis om oorsuizen minder op te laten vallen, en Dreamwave Radio heeft zeven ruiskleuren, zodat je de kleur vindt die bij je past. De app is geen medisch hulpmiddel en behandelt geen tinnitus. Suizen je oren vaak of is het nieuw, ga dan naar een arts.
 
 ---
 

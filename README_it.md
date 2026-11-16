@@ -10,9 +10,19 @@
 
 [![Scarica su App Store](https://img.shields.io/badge/Scarica_su-App_Store-0d96f6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6790789119)
 
-**4,99 $ una volta.** Nessun abbonamento, nessuna pubblicità, nessun acquisto in-app.
+**Acquisti una volta, tua per sempre.** Nessun abbonamento, nessuna pubblicità, nessun acquisto in-app.
 
 La maggior parte delle app per dormire ti da una scaletta fissa e una fattura mensile. Dreamwave Radio ti da un banco di missaggio. Metti la pioggia sopra un camino, infila un ventilatore sotto un treno notturno e regola il livello di ognuno separatamente finché non suona come la stanza in cui vuoi davvero addormentarti.
+
+---
+
+## 🆕 Novità della 2.0
+
+- **Nuovo aspetto:** ogni mix ha ora la sua copertina. Il mix in riproduzione è in alto sullo schermo, i tuoi mix si aprono come una griglia di copertine e la copertina brilla delicatamente dietro i tuoi suoni.
+- **Paesaggi onirici:** tre nuovi suoni per la sera e per la concentrazione: Orizzonte al neon, Drone di mezzanotte e Ronzio valvolare. In più due nuovi mix pronti, Costa al neon e Pioggia di mezzanotte.
+- **Siri nella tua lingua:** ora Siri ti capisce nella tua lingua. Prova a dire «Metti Pioggia sulla tenda su Dreamwave» o «Dammi più tempo su Dreamwave».
+- **Una nuova icona,** e nella schermata Home l'app ora si chiama semplicemente Dreamwave.
+- **I tuoi mix restano tuoi:** i tuoi mix salvati restano come sono, e puoi dare a ognuno una tua foto come copertina. I nuovi mix si aggiungono finché c'è spazio.
 
 ---
 
@@ -24,21 +34,19 @@ Non una playlist - un mix. Fissa fino a tre stazioni e regola ogni livello separ
 
 ### 💾 Mix a portata di tocco
 
-Parti da tre mix già pronti: Notte di pioggia, Concentrazione e Sonno dolce. Oppure salva il tuo: fissa fino a tre suoni, regola ogni livello e tocca il segnalibro accanto a Riproduci. Il pulsante dei mix in alto li richiama con un tocco, livelli compresi.
+Parti da cinque mix già pronti: Notte di pioggia, Concentrazione, Sonno dolce, Costa al neon e Pioggia di mezzanotte. Oppure salva il tuo: fissa fino a tre suoni, regola ogni livello e tocca il segnalibro accanto a Riproduci. Ogni mix ha la sua copertina, e a ogni mix salvato puoi dare una tua foto. I tuoi mix si aprono come una griglia di copertine, e un tocco li richiama, livelli compresi.
 
 ### 📚 Per concentrarsi e studiare
 
 Gli stessi suoni funzionano anche di giorno. Il rumore marrone sotto la pioggia sulla finestra copre le chiacchiere in ufficio, al bar o in una casa condivisa, così puoi concentrarti, studiare o leggere.
 
-### 🔊 Suoni che non si ripetono mai
+### 🔊 Quiete per tutta la notte
 
-La maggior parte delle app per dormire riproduce una registrazione in loop, e alle tre di notte senti il punto di giunzione. Vento notturno soffia su tre cicli che non coincidono mai. Pioggia lontana mette ogni goccia in un punto nuovo. Le fusa si fermano, come farebbe un gatto. L'app costruisce questi suoni mentre li riproduce, quindi non c'è nessuna giunzione da sentire.
-
-Quelli registrati sono montati per concatenarsi senza stacco, così una notte lunga è un unico suono continuo invece di una traccia che ricomincia di continuo.
+Nessun clic, nessuno stacco udibile. I tuoi suoni continuano uniformi per tutto il tempo che ti servono, così una lunga notte resta un suono calmo e continuo, non una traccia che ricomincia da capo. Il Vento notturno sale e scende a raffiche. Con Pioggia lontana ogni goccia cade in un punto nuovo. Le Fusa fanno pause, come farebbe un gatto.
 
 ### 🗣️ Basta chiedere
 
-«Metti la pioggia su Dreamwave Radio.» «Imposta un timer.» «Dammi altri quindici minuti.» Siri avvia un suono, ne aggiunge uno al mix o sposta il timer senza che l'app arrivi mai sullo schermo. Tutto quello che fa Siri è anche un comando rapido, così un suono può far parte della tua routine serale.
+«Avvia Dreamwave.» «Dammi più tempo su Dreamwave.» Siri e Comandi Rapidi avviano il tuo suono senza che tu debba guardare uno schermo luminoso. Ora Siri ti capisce nella tua lingua, e tutto quello che fa Siri è anche un comando rapido, così un suono può far parte della tua routine serale.
 
 ### ⏱️ Un timer che sfuma
 
@@ -58,7 +66,7 @@ Attiva «Riproduci insieme ad altro audio» nelle impostazioni e il tuo mix suon
 
 ### 🔒 Nessun account, nessuna rete, nessun dato
 
-Nessuna registrazione, nessuna analisi, nessun server. L'app non raccoglie dati perché non ha dove mandarli. Vedi l'[Informativa sulla privacy](privacy_policy.md).
+Nessuna iscrizione, nessuna analisi, nessun server, e l'app non chiede mai il microfono. La foto che scegli come copertina di un mix resta sul tuo dispositivo. L'app non raccoglie dati perché non ha dove mandarli. Vedi l'[Informativa sulla privacy](privacy_policy.md).
 
 ---
 
@@ -66,20 +74,49 @@ Nessuna registrazione, nessuna analisi, nessun server. L'app non raccoglie dati 
 
 | | | |
 |:--:|:--:|:--:|
-| <img src="docs/img/shot-01.png" width="240"> | <img src="docs/img/shot-02.png" width="240"> | <img src="docs/img/shot-03.png" width="240"> |
-| <img src="docs/img/shot-04.png" width="240"> | <img src="docs/img/shot-05.png" width="240"> | <img src="docs/img/shot-06.png" width="240"> |
+| <img src="docs/img/shot-01.png" width="240" alt="Addormentati come vuoi. Fino a tre suoni insieme."> | <img src="docs/img/shot-02.png" width="240" alt="Sfuma quando ti sei addormentato"> | <img src="docs/img/shot-03.png" width="240" alt="Tutti i suoni inclusi. Paghi una volta. Niente abbonamento."> |
+| <img src="docs/img/shot-04.png" width="240" alt="Mix già pronti. Salva i tuoi."> | <img src="docs/img/shot-05.png" width="240" alt="Fatta per sparire nel buio"> | <img src="docs/img/shot-06.png" width="240" alt="La stanza reagisce a ciò che suoni"> |
 
 ---
 
 ## 🎵 La libreria dei suoni
 
-31 stazioni in cinque categorie, e quasi tutte vengono costruite mentre suonano, quindi non si ripetono mai.
+34 suoni in sei categorie, dal rumore puro a un treno che passa nel buio.
 
 **Rumore** - Rumore bianco · Rumore rosa · Quiete profonda (rumore marrone) · Rumore grigio · Rumore verde · Rumore blu · Rumore viola
 **Rilassante** - Grembo materno · Ventilatore · In auto · Deriva lenta · Fusa · Cabina d'aereo · Shhh
 **Meteo** - Pioggia sulla tenda · Pioggia sul vetro · Tuono lontano · Vento notturno · Pioggia lontana · Vento della prateria
 **Natura** - Oceano profondo · Notte nel bosco · Strada d'estate · Ruscello di montagna · Canto degli uccelli · Grilli
 **Accogliente** - Camino · Treno notturno · Fruscio del vinile · Doccia · Barca cullata
+**Paesaggi onirici** - Orizzonte al neon · Drone di mezzanotte · Ronzio valvolare
+
+---
+
+## ❓ Domande frequenti
+
+**Perché sulla schermata Home l'app si chiama Dreamwave?**
+
+Dalla 2.0 sotto l'icona c'è semplicemente Dreamwave. L'app si chiama sempre Dreamwave Radio, nell'App Store e dentro l'app, e Siri capisce entrambi i nomi.
+
+**I miei mix salvati restano dopo l'aggiornamento?**
+
+Sì. I tuoi mix salvati restano esattamente come sono. I due nuovi mix pronti, Costa al neon e Pioggia di mezzanotte, si aggiungono finché c'è spazio, e puoi dare a ogni mix una tua foto come copertina.
+
+**La 2.0 costa qualcosa se ho già l'app?**
+
+No. La 2.0 è un aggiornamento gratuito per chi ha già Dreamwave Radio. Acquisti una volta, tua per sempre: tutti i suoni, anche quelli futuri, sono inclusi.
+
+**L'app ha bisogno di accedere alle mie foto?**
+
+No. Quando scegli una foto come copertina di un mix, il selettore di foto del sistema passa all'app solo quella foto, mai la tua libreria. Resta sul tuo dispositivo e non viene mai caricata.
+
+**Funziona offline?**
+
+Sì, del tutto. Ogni suono viene riprodotto direttamente sul tuo dispositivo, quindi funziona in modalità aereo, in treno o in un hotel senza Wi-Fi.
+
+**Può aiutare con l'acufene?**
+
+Molte persone usano un fruscio delicato per sentire meno il fischio nelle orecchie, e Dreamwave Radio ha sette colori di rumore per trovare quello adatto a te. Non è un dispositivo medico e non cura l'acufene. Se le orecchie ti fischiano spesso o il fischio è nuovo, rivolgiti a un medico.
 
 ---
 
