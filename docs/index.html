@@ -4,10 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Dreamwave Radio - Sleep Sounds, White Noise &amp; Ambient Mixer for iPhone &amp; iPad</title>
-<meta name="description" content="Blend up to three ambient sounds into your own mix and drift off on a fading sleep timer. 31 sounds, most built as they play so they never loop. Ask Siri, or run it hands-free. $4.99 once, no subscription. No account, no tracking, nothing leaves your device.">
+<meta name="description" content="Blend up to three of 34 ambient sounds into your own mix and drift off on a fading sleep timer. Five ready-made mixes, a cover for every mix, and Siri in nine languages. Buy once, keep forever. No subscription, no account, no tracking, nothing leaves your device.">
 <meta property="og:site_name" content="Dreamwave Radio">
 <meta property="og:title" content="Dreamwave Radio - Mix your own night">
-<meta property="og:description" content="Layer rain over a fireplace. Put a fan under a night train. A sleep sound mixer for iPhone and iPad with a fading timer, night mode, and zero data collection. $4.99 once, no subscription.">
+<meta property="og:description" content="Layer rain over a fireplace. Put a fan under a night train. 34 sleep sounds, five ready-made mixes with covers, a fading timer and night mode for iPhone and iPad. Buy once, keep forever. No subscription, no ads, no in-app purchases.">
 <meta property="og:image" content="https://aloth.github.io/dreamwave-radio/img/og-card.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -19,7 +19,7 @@
 <meta name="twitter:site" content="@xlth">
 <meta name="twitter:creator" content="@xlth">
 <meta name="twitter:title" content="Dreamwave Radio - Mix your own night">
-<meta name="twitter:description" content="Layer rain over a fireplace. Put a fan under a night train. A sleep sound mixer for iPhone and iPad with a fading timer, night mode, and zero data collection. $4.99 once, no subscription.">
+<meta name="twitter:description" content="Layer rain over a fireplace. Put a fan under a night train. 34 sleep sounds, five ready-made mixes with covers, a fading timer and night mode for iPhone and iPad. Buy once, keep forever. No subscription, no ads, no in-app purchases.">
 <meta name="twitter:image" content="https://aloth.github.io/dreamwave-radio/img/og-card.png">
 <meta name="twitter:image:alt" content="Dreamwave Radio - sleep sounds, white noise and ambient mixer for iPhone and iPad">
 <meta name="apple-itunes-app" content="app-id=6790789119">
@@ -92,9 +92,22 @@ h2{text-align:center;font-size:clamp(1.5rem,4vw,2.3rem);font-weight:800;margin-b
 .cat-label{font-size:0.76rem;font-weight:700;letter-spacing:1.3px;text-transform:uppercase;color:var(--ember);margin-bottom:12px;text-align:center}
 .chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
 .chip{background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:22px;padding:9px 18px;font-size:0.91rem;font-weight:500}
-.chip.gen{border-color:rgba(255,149,64,0.32);background:rgba(255,149,64,0.09)}
+.chip.new-chip{border-color:rgba(255,149,64,0.32);background:rgba(255,149,64,0.09)}
 .legend{text-align:center;color:var(--muted);font-size:0.88rem;margin-top:34px}
 .legend .dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:rgba(255,149,64,0.5);border:1px solid rgba(255,149,64,0.6);vertical-align:middle;margin-right:5px}
+
+/* New in 2.0 */
+.new{background:linear-gradient(180deg,#0f0b1c,#0a0812)}
+.new-list{max-width:620px;margin:0 auto;list-style:none}
+.new-list li{background:rgba(255,149,64,0.06);border:1px solid rgba(255,149,64,0.18);border-radius:15px;padding:16px 20px;margin-bottom:12px;color:var(--muted);font-size:0.97rem}
+.new-list li strong{color:var(--text);font-weight:600}
+
+/* FAQ */
+.faq{background:linear-gradient(180deg,#0a0812,#0f0b1c)}
+.faq-list{max-width:680px;margin:0 auto}
+.faq-item{background:rgba(255,255,255,0.035);border:1px solid rgba(255,255,255,0.075);border-radius:15px;padding:20px 24px;margin-bottom:13px}
+.faq-item h3{font-size:1.02rem;font-weight:700;margin-bottom:7px}
+.faq-item p{color:var(--muted);font-size:0.95rem;line-height:1.6}
 
 /* Privacy */
 .privacy{background:#0a0812;text-align:center}
@@ -123,9 +136,69 @@ footer p{margin-bottom:9px}
   "name": "Dreamwave Radio",
   "operatingSystem": "iOS 17.0",
   "applicationCategory": "HealthApplication",
-  "description": "Blend up to three ambient sounds into your own mix and drift off on a fading sleep timer. 31 sounds, most built as they play. Ask Siri. No account, no tracking, nothing leaves your device.",
+  "description": "Blend up to three of 34 ambient sounds into your own mix and drift off on a fading sleep timer. Five ready-made mixes, a cover for every mix, and Siri in nine languages. No account, no tracking, nothing leaves your device.",
+  "softwareVersion": "2.0",
+  "datePublished": "2026-11-16",
+  "image": "https://raw.githubusercontent.com/aloth/dreamwave-radio/main/assets/images/dreamwave-radio-icon.png",
   "url": "https://aloth.github.io/dreamwave-radio/",
+  "downloadUrl": "https://apps.apple.com/app/id6790789119",
   "author": { "@type": "Person", "name": "Alexander Loth", "url": "https://alexloth.com" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is the app called Dreamwave on my home screen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Since 2.0 the label under the icon is simply Dreamwave. The app itself is still Dreamwave Radio, in the App Store and inside the app, and Siri understands both names."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do my saved mixes stay after the update?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Your saved mixes stay exactly as they are. The two new ready-made mixes, Neon Coast and Midnight Rain, are added as long as there is room, and you can give each mix a photo of your own as its cover."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does 2.0 cost anything if I already own the app?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. 2.0 is a free update for everyone who already has Dreamwave Radio. Buy once, keep forever: all sounds and all future sounds are included."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the app need access to my photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. When you choose a photo as a mix cover, the system photo picker hands the app only that one photo, never your library. It stays on your device and is never uploaded."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does it work offline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, completely. Every sound plays right on your device, so it works in airplane mode, on a train or in a hotel without Wi-Fi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can it help with tinnitus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many people use soft noise to make ringing in the ears less noticeable, and Dreamwave Radio has seven noise colors, so you can find the one that feels right to you. It is not a medical device and does not treat tinnitus. If your ears ring often or the ringing is new, please see a doctor."
+      }
+    }
+  ]
 }
 </script>
 </head>
@@ -136,11 +209,11 @@ footer p{margin-bottom:9px}
   <div class="hero-badge">🌙 Sleep sounds for iPhone &amp; iPad</div>
   <h1>Mix your<br><span>own night.</span></h1>
   <p>Most sleep apps hand you a playlist. Dreamwave Radio hands you a mixing desk. Layer rain over a fireplace, put a fan under a night train, and set each level until it sounds like the room you actually want to fall asleep in.</p>
-  <p class="hero-tagline">31 sounds &middot; Ready-made mixes &middot; Ask Siri &middot; Fading sleep timer &middot; Zero data collection</p>
+  <p class="hero-tagline">34 sounds &middot; Five ready-made mixes &middot; A cover for every mix &middot; Ask Siri &middot; Fading sleep timer &middot; Zero data collection</p>
   <a class="appstore" href="https://apps.apple.com/app/id6790789119" aria-label="Download Dreamwave Radio on the App Store">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="168" height="56">
   </a>
-  <p class="price-line">$4.99 once <span>· no subscription, no ads, no in-app purchases</span></p>
+  <p class="price-line">Buy once, keep forever. <span>No subscription, no ads, no in-app purchases.</span></p>
 </section>
 
 <section class="mix">
@@ -163,20 +236,32 @@ footer p{margin-bottom:9px}
       <div class="mix-bar"><div class="mix-fill" style="width:28%"></div></div>
     </div>
     <p class="mix-caption">Rain on a tent, a fire in the corner, a train somewhere far off.</p>
-    <p class="mix-caption">Like it? Tap the bookmark next to Play and it comes back with one tap, levels included. Or start from three ready-made mixes: Rainy Night, Focus and Gentle Sleep.</p>
+    <p class="mix-caption">Like it? Tap the bookmark next to Play, give the mix its own cover, and it comes back with one tap, levels included. Or start from five ready-made mixes: Rainy Night, Focus, Gentle Sleep, Neon Coast and Midnight Rain.</p>
   </div>
+</section>
+
+<section class="new">
+  <h2>New in 2.0</h2>
+  <p class="subtitle">A calmer look with covers for every mix, new Dreamscapes sounds and a fresh icon.</p>
+  <ul class="new-list">
+    <li><strong>🖼️ A new look.</strong> Every mix now has its own cover. The mix that is playing sits at the top of the screen, your mixes open as a grid of covers, and the cover glows softly behind your sounds.</li>
+    <li><strong>🌌 Dreamscapes.</strong> Three new sounds for the evening and for focus: Neon Horizon, Midnight Drone and Tube Hum. Plus two new ready-made mixes, Neon Coast and Midnight Rain.</li>
+    <li><strong>🗣️ Siri in your language.</strong> Siri now understands you in all nine languages of the app. Try "Play Rain on Tent in Dreamwave" or "Give me more time in Dreamwave".</li>
+    <li><strong>🌅 A new icon.</strong> On your home screen the app is now simply called Dreamwave.</li>
+    <li><strong>💾 Your mixes stay yours.</strong> Your saved mixes stay as they are, and you can give each one a photo of your own as its cover. The new mixes are added as long as there is room.</li>
+  </ul>
 </section>
 
 <section class="shots">
   <h2>A look at it</h2>
   <p class="subtitle">Dark by default, because you are looking at this in a dark room.</p>
   <div class="shot-rail">
-    <img src="img/shot-01.png" alt="Mixing up to three sounds with a level for each" loading="lazy">
-    <img src="img/shot-02.png" alt="Sleep timer that fades out" loading="lazy">
-    <img src="img/shot-03.png" alt="All 31 sounds, Deep Hush shown as Brown Noise" loading="lazy">
-    <img src="img/shot-04.png" alt="Ready-made and saved mixes" loading="lazy">
-    <img src="img/shot-05.png" alt="Night mode" loading="lazy">
-    <img src="img/shot-06.png" alt="Reactive ambient background" loading="lazy">
+    <img src="img/shot-01.png" alt="Fall asleep your way. Up to three sounds at once." loading="lazy">
+    <img src="img/shot-02.png" alt="Fades out after you drift off" loading="lazy">
+    <img src="img/shot-03.png" alt="Every sound included. Pay once. No subscription." loading="lazy">
+    <img src="img/shot-04.png" alt="Ready-made mixes. Save your own." loading="lazy">
+    <img src="img/shot-05.png" alt="Built to disappear in the dark" loading="lazy">
+    <img src="img/shot-06.png" alt="The room reacts to what you play" loading="lazy">
   </div>
   <p class="shot-hint">Scroll sideways &rarr;</p>
 </section>
@@ -193,7 +278,7 @@ footer p{margin-bottom:9px}
     <div class="feature-card">
       <div class="feature-icon">💾</div>
       <h3>Mixes, one tap away</h3>
-      <p>Three ready-made mixes to start, and your own saved with one tap. The Mixes button brings any of them back, levels included.</p>
+      <p>Five ready-made mixes to start, and your own saved with one tap. Every mix has a cover, or a photo of your own, and one tap brings it back, levels included.</p>
     </div>
     <div class="feature-card">
       <div class="feature-icon">📚</div>
@@ -202,18 +287,23 @@ footer p{margin-bottom:9px}
     </div>
     <div class="feature-card">
       <div class="feature-icon">🔊</div>
-      <h3>Sounds that never repeat</h3>
-      <p>Most of the library is built as it plays rather than played from a file, so it never develops the audible loop point that gives most noise apps away at 3am.</p>
+      <h3>Quiet all night</h3>
+      <p>No clicks, no audible seam. Your sounds keep playing evenly for as long as you need them, so nothing jolts you awake at 3am.</p>
     </div>
     <div class="feature-card">
       <div class="feature-icon">⏱️</div>
       <h3>A timer that fades</h3>
-      <p>Presets for the usual nights, or drag the scale to any duration from 1 to 120 minutes. The mix fades out instead of stopping dead, so the timer never wakes you on its way out.</p>
+      <p>Presets for the usual nights, or drag the scale to any duration from 1 to 120 minutes. The mix fades out instead of stopping dead, so the timer never wakes you on its way out. The time left shows on the Lock Screen and in the Dynamic Island.</p>
     </div>
     <div class="feature-card">
       <div class="feature-icon">🌙</div>
       <h3>Night mode</h3>
       <p>Dims the whole interface, so checking the timer in a dark bedroom is not like taking a flashlight to the face.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🗣️</div>
+      <h3>Just ask</h3>
+      <p>"Play Rain on Tent in Dreamwave." "Give me more time in Dreamwave." Siri and Shortcuts start your sound and stretch the timer without you having to look at a bright screen.</p>
     </div>
     <div class="feature-card">
       <div class="feature-icon">🔒</div>
@@ -228,30 +318,30 @@ footer p{margin-bottom:9px}
     <div class="feature-card">
       <div class="feature-icon">✈️</div>
       <h3>Works offline</h3>
-      <p>Every sound is generated or bundled on device. No streaming, no buffering, no connection needed.</p>
+      <p>Every sound plays right on your device. No streaming, no buffering, no connection needed, on a plane or in a hotel without Wi-Fi.</p>
     </div>
   </div>
 </section>
 
 <section class="library">
-  <h2>Thirty-one sounds</h2>
-  <p class="subtitle">Five categories, from pure noise to a train passing in the dark.</p>
+  <h2>Thirty-four sounds</h2>
+  <p class="subtitle">Six categories, from pure noise to a train passing in the dark.</p>
   <div class="cat">
     <div class="cat-label">Noise</div>
     <div class="chips">
-      <span class="chip gen">White Noise</span><span class="chip gen">Pink Noise</span><span class="chip gen">Deep Hush (Brown Noise)</span><span class="chip gen">Grey Noise</span><span class="chip gen">Green Noise</span><span class="chip gen">Blue Noise</span><span class="chip gen">Violet Noise</span>
+      <span class="chip">White Noise</span><span class="chip">Pink Noise</span><span class="chip">Deep Hush (Brown Noise)</span><span class="chip">Grey Noise</span><span class="chip">Green Noise</span><span class="chip">Blue Noise</span><span class="chip">Violet Noise</span>
     </div>
   </div>
   <div class="cat">
     <div class="cat-label">Soothing</div>
     <div class="chips">
-      <span class="chip gen">Womb</span><span class="chip gen">Fan Hum</span><span class="chip gen">Car Ride</span><span class="chip">Slow Drift</span><span class="chip gen">Cat Purr</span><span class="chip gen">Airplane Cabin</span><span class="chip gen">Shusher</span>
+      <span class="chip">Womb</span><span class="chip">Fan Hum</span><span class="chip">Car Ride</span><span class="chip">Slow Drift</span><span class="chip">Cat Purr</span><span class="chip">Airplane Cabin</span><span class="chip">Shusher</span>
     </div>
   </div>
   <div class="cat">
     <div class="cat-label">Weather</div>
     <div class="chips">
-      <span class="chip">Rain on Tent</span><span class="chip">Rain on Window</span><span class="chip">Distant Thunder</span><span class="chip gen">Night Wind</span><span class="chip gen">Distant Rain</span><span class="chip">Prairie Wind</span>
+      <span class="chip">Rain on Tent</span><span class="chip">Rain on Window</span><span class="chip">Distant Thunder</span><span class="chip">Night Wind</span><span class="chip">Distant Rain</span><span class="chip">Prairie Wind</span>
     </div>
   </div>
   <div class="cat">
@@ -263,10 +353,16 @@ footer p{margin-bottom:9px}
   <div class="cat">
     <div class="cat-label">Cozy</div>
     <div class="chips">
-      <span class="chip">Fireplace</span><span class="chip">Night Train</span><span class="chip gen">Vinyl Crackle</span><span class="chip gen">Running Shower</span><span class="chip">Rocking Boat</span>
+      <span class="chip">Fireplace</span><span class="chip">Night Train</span><span class="chip">Vinyl Crackle</span><span class="chip">Running Shower</span><span class="chip">Rocking Boat</span>
     </div>
   </div>
-  <p class="legend"><span class="dot"></span> Synthesized live on device - no recording, no loop point</p>
+  <div class="cat">
+    <div class="cat-label">Dreamscapes</div>
+    <div class="chips">
+      <span class="chip new-chip">Neon Horizon</span><span class="chip new-chip">Midnight Drone</span><span class="chip new-chip">Tube Hum</span>
+    </div>
+  </div>
+  <p class="legend"><span class="dot"></span> New in 2.0</p>
 </section>
 
 <section class="privacy">
@@ -277,17 +373,31 @@ footer p{margin-bottom:9px}
     <div class="privacy-item"><span class="check">✓</span><span><strong>No analytics or ad SDKs.</strong> None are linked into the app.</span></div>
     <div class="privacy-item"><span class="check">✓</span><span><strong>No server.</strong> There is no backend to send anything to.</span></div>
     <div class="privacy-item"><span class="check">✓</span><span><strong>No microphone.</strong> The app never asks for it and never listens.</span></div>
+    <div class="privacy-item"><span class="check">✓</span><span><strong>No access to your photo library.</strong> A photo you pick as a mix cover stays on your device and is never uploaded.</span></div>
     <div class="privacy-item"><span class="check">✓</span><span><strong>No health or sleep data.</strong> HealthKit is never accessed.</span></div>
     <div class="privacy-item"><span class="check">✓</span><span><strong>Your settings stay on device</strong> and are deleted with the app.</span></div>
   </div>
   <p style="margin-top:34px"><a href="https://github.com/aloth/dreamwave-radio/blob/main/privacy_policy.md" style="color:var(--cream)">Read the full Privacy Policy →</a></p>
 </section>
 
+<section class="faq">
+  <h2>Questions</h2>
+  <p class="subtitle">The short answers.</p>
+  <div class="faq-list">
+    <div class="faq-item"><h3>Why is the app called Dreamwave on my home screen?</h3><p>Since 2.0 the label under the icon is simply Dreamwave. The app itself is still Dreamwave Radio, in the App Store and inside the app, and Siri understands both names.</p></div>
+    <div class="faq-item"><h3>Do my saved mixes stay after the update?</h3><p>Yes. Your saved mixes stay exactly as they are. The two new ready-made mixes, Neon Coast and Midnight Rain, are added as long as there is room, and you can give each mix a photo of your own as its cover.</p></div>
+    <div class="faq-item"><h3>Does 2.0 cost anything if I already own the app?</h3><p>No. 2.0 is a free update for everyone who already has Dreamwave Radio. Buy once, keep forever: all sounds and all future sounds are included.</p></div>
+    <div class="faq-item"><h3>Does the app need access to my photos?</h3><p>No. When you choose a photo as a mix cover, the system photo picker hands the app only that one photo, never your library. It stays on your device and is never uploaded.</p></div>
+    <div class="faq-item"><h3>Does it work offline?</h3><p>Yes, completely. Every sound plays right on your device, so it works in airplane mode, on a train or in a hotel without Wi-Fi.</p></div>
+    <div class="faq-item"><h3>Can it help with tinnitus?</h3><p>Many people use soft noise to make ringing in the ears less noticeable, and Dreamwave Radio has seven noise colors, so you can find the one that feels right to you. It is not a medical device and does not treat tinnitus. If your ears ring often or the ringing is new, please see a doctor.</p></div>
+  </div>
+</section>
+
 <section class="cta">
   <div class="moon">🌙</div>
   <h2>For quieter nights</h2>
-  <p>Buy it once. Every sound included, forever.</p>
-  <p class="platforms">$4.99 one-time · Requires iOS 17 or later · iPhone and iPad · Nine languages</p>
+  <p>Buy once, keep forever. No subscription, no ads, no in-app purchases.</p>
+  <p class="platforms">Every sound included, and every future one · Requires iOS 17 or later · iPhone and iPad · Nine languages</p>
   <a class="appstore" href="https://apps.apple.com/app/id6790789119" aria-label="Download Dreamwave Radio on the App Store" style="margin-bottom:26px">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="168" height="56">
   </a>
