@@ -1,6 +1,6 @@
 # Privacy Policy for Dreamwave Radio
 
-**Effective Date:** August 3, 2026
+**Effective Date:** November 16, 2026
 
 Dreamwave Radio ("the App"), operated by Alexander Loth ("we," "us," or "our"), is designed so that there is nothing to collect. This Privacy Policy explains our practices regarding information when you use the App.
 
@@ -19,18 +19,23 @@ The App stores your preferences on your device only:
 - Which sounds you have pinned to your mix
 - The volume level set for each sound
 - Sleep timer and night mode settings
+- Your saved mixes, and any photo you choose as the cover of a mix
 
 This information never leaves your device. We have no access to it.
 
 ### 2.2. Audio Playback
 
-All audio is produced on your device. Some sounds are synthesized in real time by the App; the others are audio files bundled inside the App itself. No audio is streamed, downloaded, or requested from any server.
+All audio is produced on your device. No audio is streamed, downloaded, or requested from any server.
 
-### 2.3. Microphone
+### 2.3. Photos You Choose as Mix Covers
+
+You can give a saved mix a photo of your own as its cover. The App uses the system photo picker for this, so it never gets access to your photo library: it receives only the one photo you pick. That photo is stored on your device as the cover of that mix and is never uploaded. Removing the cover or deleting the mix removes the stored photo.
+
+### 2.4. Microphone
 
 The App does not request or use microphone access. It does not listen to you.
 
-### 2.4. Health and Sleep Data
+### 2.5. Health and Sleep Data
 
 The App does not request or access HealthKit, sleep tracking, or any other health data.
 
